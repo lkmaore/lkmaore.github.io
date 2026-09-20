@@ -6,7 +6,7 @@ I’m building a career in business analysis with one ambition: give the data a 
 
 [Visit the portfolio](https://lkmaore.github.io/) · [Connect on LinkedIn](https://www.linkedin.com/in/lesleymaore/)
 
-## Featured case study
+## Featured case studies
 
 ### Growing sales. Shrinking margins.
 
@@ -16,10 +16,17 @@ January–August 2026 revenue grew **21.9%**, but gross profit grew only **8.1%*
 
 [Read the story](https://lkmaore.github.io/projects/commercial-performance/) · [Inspect the project](projects/commercial-performance/README.md)
 
+### When delivery breaks the promise.
+
+A public-data supply-chain case study asks where delivery time accumulates and how operations should prioritise an investigation. It connects delivery reliability with customer experience, then proposes an exception queue and acceptance criteria.
+
+[Read the story](https://lkmaore.github.io/projects/delivery-performance/) · [Inspect the project](projects/delivery-performance/README.md)
+
 ## How this portfolio is organised
 
 - `index.html`: home, work, about, and contact.
 - `projects/commercial-performance/`: standalone case study and supporting evidence.
+- `projects/delivery-performance/`: public-data case study, Python/SQL analysis, notebook and proposed requirements.
 - `assets/`: responsive styling and small navigation enhancement.
 
 The site is static HTML and CSS with minimal optional JavaScript. Reading the case study does not require an account, JavaScript, or access to the private Power BI report.
@@ -36,4 +43,4 @@ Open `http://localhost:8000`. GitHub Pages serves the repository root from `main
 
 ## Honest scope
 
-The featured project is an AI-assisted learning case study using synthetic data. It does not claim client work, stakeholder interviews, implemented recommendations, or realised business benefits. The case study explains the contribution and assistance used.
+These are AI-assisted learning case studies. Project 1 uses synthetic data; Project 2 uses real anonymised historical Olist data. Neither claims client work, stakeholder interviews, implemented recommendations or realised business benefits. Each case explains its source, limitations, contribution and assistance used.

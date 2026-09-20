@@ -1,0 +1,1413 @@
+{
+  "source": {
+    "title": "Brazilian E-Commerce Public Dataset by Olist",
+    "url": "https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce",
+    "license": "CC BY-NC-SA 4.0",
+    "classification": "real anonymised historical commercial data",
+    "files_sha256": {
+      "olist_orders_dataset.csv": "8df58ef3d2d7e9944010f7beecd9b75367f5588ec6e3c91cec19ae3345ef9ecf",
+      "olist_customers_dataset.csv": "983a422239e1712ded753b3bf9ecf47dc73f144d306029dcfa99e70a226883d2",
+      "olist_order_items_dataset.csv": "0bc4d068c4fe38cbb01bd90e8746e3c613fe7b4baef75fab7b0e329701c3e279",
+      "olist_order_reviews_dataset.csv": "012b61c7593e34f51fa614efdf802b9c7056ce6aae5307ddb93236e7cfc797d7",
+      "olist_products_dataset.csv": "3e6569628a17fbc75fd206ee357b59e20364b9afa90f5b6cd5b4d624c58aa9cc",
+      "olist_sellers_dataset.csv": "1f643d2b950373b85735e7794b20986f528d7a000432e7c6f9bcbb44d0846a0e",
+      "product_category_name_translation.csv": "a81f0d1f27b27e7293f761bc79e3ce8f348ee39c4b3ed3e49bde38f478586278"
+    }
+  },
+  "scope": {
+    "purchase_min": "2016-09-04 21:15:19",
+    "purchase_max": "2018-10-17 17:30:18",
+    "cohort_purchase_min": "2016-09",
+    "cohort_purchase_max": "2018-08",
+    "late_definition": "Delivered calendar date later than estimated calendar date; same-day arrivals count on time. Naive source timestamps; no timezone conversion."
+  },
+  "quality": {
+    "rows": {
+      "orders": 99441,
+      "customers": 99441,
+      "items": 112650,
+      "reviews": 99224,
+      "products": 32951,
+      "sellers": 3095,
+      "translation": 71
+    },
+    "duplicate_order_ids": 0,
+    "duplicate_customer_ids": 0,
+    "duplicate_product_ids": 0,
+    "duplicate_seller_ids": 0,
+    "orphan_order_customers": 0,
+    "orphan_item_orders": 0,
+    "orphan_item_products": 0,
+    "orphan_item_sellers": 0,
+    "orphan_review_orders": 0,
+    "orders_multiple_reviews": 547,
+    "orders_multiple_sellers": 1278,
+    "exclusions": {
+      "not_delivered_status": 2963,
+      "missing_core_dates": 8
+    },
+    "stage_exclusions": {
+      "out_of_sequence_stage_dates": 1373,
+      "missing_stage_dates": 15
+    },
+    "eligible_stage_orders": 95082,
+    "eligible_orders_without_reviews": 646,
+    "eligible_orders_multiple_reviews": 525,
+    "eligible_orders_missing_items": 0,
+    "independent_sql_primary_counts": [
+      96470,
+      6534
+    ]
+  },
+  "statuses": {
+    "delivered": 96478,
+    "invoiced": 314,
+    "shipped": 1107,
+    "processing": 301,
+    "unavailable": 609,
+    "canceled": 625,
+    "created": 5,
+    "approved": 2
+  },
+  "overall": {
+    "orders": 96470,
+    "late_orders": 6534,
+    "late_rate": 6.7730900798175595,
+    "median_delivery_days": 10.217476851851853,
+    "reviewed_orders": 95824,
+    "low_reviews": 12272,
+    "low_review_rate": 12.806812489564201
+  },
+  "states": [
+    {
+      "group": "AC",
+      "orders": 80,
+      "late_orders": 3,
+      "late_rate": 3.75,
+      "median_delivery_days": 18.356527777777778,
+      "reviewed_orders": 80,
+      "low_reviews": 12,
+      "low_review_rate": 15.0
+    },
+    {
+      "group": "AL",
+      "orders": 397,
+      "late_orders": 85,
+      "late_rate": 21.410579345088163,
+      "median_delivery_days": 22.332916666666666,
+      "reviewed_orders": 394,
+      "low_reviews": 84,
+      "low_review_rate": 21.31979695431472
+    },
+    {
+      "group": "AM",
+      "orders": 145,
+      "late_orders": 4,
+      "late_rate": 2.7586206896551726,
+      "median_delivery_days": 25.875138888888888,
+      "reviewed_orders": 144,
+      "low_reviews": 19,
+      "low_review_rate": 13.194444444444445
+    },
+    {
+      "group": "AP",
+      "orders": 67,
+      "late_orders": 2,
+      "late_rate": 2.985074626865672,
+      "median_delivery_days": 24.347025462962964,
+      "reviewed_orders": 66,
+      "low_reviews": 4,
+      "low_review_rate": 6.0606060606060606
+    },
+    {
+      "group": "BA",
+      "orders": 3256,
+      "late_orders": 396,
+      "late_rate": 12.162162162162161,
+      "median_delivery_days": 16.91396412037037,
+      "reviewed_orders": 3229,
+      "low_reviews": 549,
+      "low_review_rate": 17.002167853824712
+    },
+    {
+      "group": "CE",
+      "orders": 1279,
+      "late_orders": 176,
+      "late_rate": 13.760750586395622,
+      "median_delivery_days": 18.20920138888889,
+      "reviewed_orders": 1273,
+      "low_reviews": 218,
+      "low_review_rate": 17.124901806755695
+    },
+    {
+      "group": "DF",
+      "orders": 2080,
+      "late_orders": 118,
+      "late_rate": 5.673076923076923,
+      "median_delivery_days": 11.364924768518518,
+      "reviewed_orders": 2070,
+      "low_reviews": 274,
+      "low_review_rate": 13.23671497584541
+    },
+    {
+      "group": "ES",
+      "orders": 1995,
+      "late_orders": 214,
+      "late_rate": 10.726817042606516,
+      "median_delivery_days": 13.636956018518518,
+      "reviewed_orders": 1969,
+      "low_reviews": 272,
+      "low_review_rate": 13.814118842051803
+    },
+    {
+      "group": "GO",
+      "orders": 1957,
+      "late_orders": 128,
+      "late_rate": 6.540623403168114,
+      "median_delivery_days": 13.949606481481482,
+      "reviewed_orders": 1946,
+      "low_reviews": 256,
+      "low_review_rate": 13.1551901336074
+    },
+    {
+      "group": "MA",
+      "orders": 717,
+      "late_orders": 125,
+      "late_rate": 17.433751743375176,
+      "median_delivery_days": 19.190601851851852,
+      "reviewed_orders": 712,
+      "low_reviews": 142,
+      "low_review_rate": 19.9438202247191
+    },
+    {
+      "group": "MG",
+      "orders": 11354,
+      "late_orders": 519,
+      "late_rate": 4.571076272679232,
+      "median_delivery_days": 10.313512731481481,
+      "reviewed_orders": 11285,
+      "low_reviews": 1326,
+      "low_review_rate": 11.750110766504209
+    },
+    {
+      "group": "MS",
+      "orders": 701,
+      "late_orders": 68,
+      "late_rate": 9.70042796005706,
+      "median_delivery_days": 13.943796296296297,
+      "reviewed_orders": 699,
+      "low_reviews": 93,
+      "low_review_rate": 13.304721030042918
+    },
+    {
+      "group": "MT",
+      "orders": 886,
+      "late_orders": 53,
+      "late_rate": 5.981941309255079,
+      "median_delivery_days": 16.109050925925924,
+      "reviewed_orders": 879,
+      "low_reviews": 112,
+      "low_review_rate": 12.741751990898749
+    },
+    {
+      "group": "PA",
+      "orders": 946,
+      "late_orders": 106,
+      "late_rate": 11.20507399577167,
+      "median_delivery_days": 21.078391203703703,
+      "reviewed_orders": 933,
+      "low_reviews": 167,
+      "low_review_rate": 17.89924973204716
+    },
+    {
+      "group": "PB",
+      "orders": 517,
+      "late_orders": 54,
+      "late_rate": 10.444874274661508,
+      "median_delivery_days": 18.15244212962963,
+      "reviewed_orders": 512,
+      "low_reviews": 76,
+      "low_review_rate": 14.84375
+    },
+    {
+      "group": "PE",
+      "orders": 1593,
+      "late_orders": 153,
+      "late_rate": 9.6045197740113,
+      "median_delivery_days": 15.702766203703703,
+      "reviewed_orders": 1579,
+      "low_reviews": 234,
+      "low_review_rate": 14.819506016466118
+    },
+    {
+      "group": "PI",
+      "orders": 476,
+      "late_orders": 66,
+      "late_rate": 13.865546218487395,
+      "median_delivery_days": 16.29226851851852,
+      "reviewed_orders": 471,
+      "low_reviews": 76,
+      "low_review_rate": 16.13588110403397
+    },
+    {
+      "group": "PR",
+      "orders": 4923,
+      "late_orders": 199,
+      "late_rate": 4.042250660166565,
+      "median_delivery_days": 10.42550925925926,
+      "reviewed_orders": 4900,
+      "low_reviews": 533,
+      "low_review_rate": 10.877551020408163
+    },
+    {
+      "group": "RJ",
+      "orders": 12350,
+      "late_orders": 1495,
+      "late_rate": 12.105263157894736,
+      "median_delivery_days": 12.04164351851852,
+      "reviewed_orders": 12211,
+      "low_reviews": 2238,
+      "low_review_rate": 18.32773728605356
+    },
+    {
+      "group": "RN",
+      "orders": 474,
+      "late_orders": 44,
+      "late_rate": 9.282700421940929,
+      "median_delivery_days": 16.060254629629632,
+      "reviewed_orders": 471,
+      "low_reviews": 61,
+      "low_review_rate": 12.951167728237792
+    },
+    {
+      "group": "RO",
+      "orders": 243,
+      "late_orders": 7,
+      "late_rate": 2.880658436213992,
+      "median_delivery_days": 17.582361111111112,
+      "reviewed_orders": 242,
+      "low_reviews": 29,
+      "low_review_rate": 11.983471074380166
+    },
+    {
+      "group": "RR",
+      "orders": 41,
+      "late_orders": 5,
+      "late_rate": 12.195121951219512,
+      "median_delivery_days": 25.00730324074074,
+      "reviewed_orders": 41,
+      "low_reviews": 6,
+      "low_review_rate": 14.634146341463415
+    },
+    {
+      "group": "RS",
+      "orders": 5344,
+      "late_orders": 325,
+      "late_rate": 6.081586826347305,
+      "median_delivery_days": 13.177488425925926,
+      "reviewed_orders": 5326,
+      "low_reviews": 635,
+      "low_review_rate": 11.922643634998122
+    },
+    {
+      "group": "SC",
+      "orders": 3546,
+      "late_orders": 291,
+      "late_rate": 8.20642978003384,
+      "median_delivery_days": 13.014351851851853,
+      "reviewed_orders": 3519,
+      "low_reviews": 457,
+      "low_review_rate": 12.986643932935493
+    },
+    {
+      "group": "SE",
+      "orders": 335,
+      "late_orders": 51,
+      "late_rate": 15.223880597014926,
+      "median_delivery_days": 18.014305555555556,
+      "reviewed_orders": 334,
+      "low_reviews": 63,
+      "low_review_rate": 18.862275449101798
+    },
+    {
+      "group": "SP",
+      "orders": 40494,
+      "late_orders": 1820,
+      "late_rate": 4.494493011310317,
+      "median_delivery_days": 7.210271990740741,
+      "reviewed_orders": 40266,
+      "low_reviews": 4303,
+      "low_review_rate": 10.686435205880892
+    },
+    {
+      "group": "TO",
+      "orders": 274,
+      "late_orders": 27,
+      "late_rate": 9.854014598540147,
+      "median_delivery_days": 15.865885416666668,
+      "reviewed_orders": 273,
+      "low_reviews": 33,
+      "low_review_rate": 12.087912087912088
+    }
+  ],
+  "months": [
+    {
+      "group": "2016-09",
+      "orders": 1,
+      "late_orders": 1,
+      "late_rate": 100.0,
+      "median_delivery_days": 54.81319444444444,
+      "reviewed_orders": 1,
+      "low_reviews": 1,
+      "low_review_rate": 100.0
+    },
+    {
+      "group": "2016-10",
+      "orders": 265,
+      "late_orders": 2,
+      "late_rate": 0.7547169811320755,
+      "median_delivery_days": 17.944282407407407,
+      "reviewed_orders": 262,
+      "low_reviews": 43,
+      "low_review_rate": 16.412213740458014
+    },
+    {
+      "group": "2016-12",
+      "orders": 1,
+      "late_orders": 0,
+      "late_rate": 0.0,
+      "median_delivery_days": 4.693020833333334,
+      "reviewed_orders": 1,
+      "low_reviews": 0,
+      "low_review_rate": 0.0
+    },
+    {
+      "group": "2017-01",
+      "orders": 750,
+      "late_orders": 22,
+      "late_rate": 2.933333333333333,
+      "median_delivery_days": 10.733645833333334,
+      "reviewed_orders": 741,
+      "low_reviews": 89,
+      "low_review_rate": 12.010796221322536
+    },
+    {
+      "group": "2017-02",
+      "orders": 1653,
+      "late_orders": 49,
+      "late_rate": 2.9643073200241985,
+      "median_delivery_days": 10.971203703703704,
+      "reviewed_orders": 1643,
+      "low_reviews": 182,
+      "low_review_rate": 11.077297626293365
+    },
+    {
+      "group": "2017-03",
+      "orders": 2546,
+      "late_orders": 116,
+      "late_rate": 4.556166535742341,
+      "median_delivery_days": 10.126487268518519,
+      "reviewed_orders": 2527,
+      "low_reviews": 284,
+      "low_review_rate": 11.238622872971904
+    },
+    {
+      "group": "2017-04",
+      "orders": 2303,
+      "late_orders": 151,
+      "late_rate": 6.556665219279201,
+      "median_delivery_days": 12.748622685185186,
+      "reviewed_orders": 2290,
+      "low_reviews": 296,
+      "low_review_rate": 12.925764192139738
+    },
+    {
+      "group": "2017-05",
+      "orders": 3545,
+      "late_orders": 106,
+      "late_rate": 2.9901269393511987,
+      "median_delivery_days": 9.793333333333333,
+      "reviewed_orders": 3517,
+      "low_reviews": 354,
+      "low_review_rate": 10.065396644867786
+    },
+    {
+      "group": "2017-06",
+      "orders": 3135,
+      "late_orders": 95,
+      "late_rate": 3.0303030303030303,
+      "median_delivery_days": 10.804907407407407,
+      "reviewed_orders": 3111,
+      "low_reviews": 334,
+      "low_review_rate": 10.736097717775635
+    },
+    {
+      "group": "2017-07",
+      "orders": 3872,
+      "late_orders": 108,
+      "late_rate": 2.7892561983471076,
+      "median_delivery_days": 10.158072916666665,
+      "reviewed_orders": 3842,
+      "low_reviews": 382,
+      "low_review_rate": 9.942738157209787
+    },
+    {
+      "group": "2017-08",
+      "orders": 4193,
+      "late_orders": 122,
+      "late_rate": 2.9096112568566657,
+      "median_delivery_days": 9.769814814814815,
+      "reviewed_orders": 4165,
+      "low_reviews": 391,
+      "low_review_rate": 9.387755102040817
+    },
+    {
+      "group": "2017-09",
+      "orders": 4150,
+      "late_orders": 182,
+      "late_rate": 4.385542168674699,
+      "median_delivery_days": 10.314432870370371,
+      "reviewed_orders": 4118,
+      "low_reviews": 423,
+      "low_review_rate": 10.271976687712481
+    },
+    {
+      "group": "2017-10",
+      "orders": 4478,
+      "late_orders": 187,
+      "late_rate": 4.17597141581063,
+      "median_delivery_days": 10.263362268518518,
+      "reviewed_orders": 4446,
+      "low_reviews": 492,
+      "low_review_rate": 11.06612685560054
+    },
+    {
+      "group": "2017-11",
+      "orders": 7288,
+      "late_orders": 904,
+      "late_rate": 12.403951701427003,
+      "median_delivery_days": 12.698680555555555,
+      "reviewed_orders": 7237,
+      "low_reviews": 1199,
+      "low_review_rate": 16.56763852425038
+    },
+    {
+      "group": "2017-12",
+      "orders": 5513,
+      "late_orders": 411,
+      "late_rate": 7.455106112824233,
+      "median_delivery_days": 13.1421875,
+      "reviewed_orders": 5461,
+      "low_reviews": 788,
+      "low_review_rate": 14.429591649880974
+    },
+    {
+      "group": "2018-01",
+      "orders": 7069,
+      "late_orders": 403,
+      "late_rate": 5.7009478002546325,
+      "median_delivery_days": 11.830115740740741,
+      "reviewed_orders": 7013,
+      "low_reviews": 961,
+      "low_review_rate": 13.703122771994867
+    },
+    {
+      "group": "2018-02",
+      "orders": 6555,
+      "late_orders": 926,
+      "late_rate": 14.126620900076277,
+      "median_delivery_days": 14.26375,
+      "reviewed_orders": 6507,
+      "low_reviews": 1261,
+      "low_review_rate": 19.37913016751191
+    },
+    {
+      "group": "2018-03",
+      "orders": 7003,
+      "late_orders": 1328,
+      "late_rate": 18.96330144223904,
+      "median_delivery_days": 13.367731481481481,
+      "reviewed_orders": 6948,
+      "low_reviews": 1471,
+      "low_review_rate": 21.171560161197466
+    },
+    {
+      "group": "2018-04",
+      "orders": 6798,
+      "late_orders": 306,
+      "late_rate": 4.501323918799647,
+      "median_delivery_days": 9.314728009259259,
+      "reviewed_orders": 6752,
+      "low_reviews": 796,
+      "low_review_rate": 11.789099526066352
+    },
+    {
+      "group": "2018-05",
+      "orders": 6749,
+      "late_orders": 443,
+      "late_rate": 6.563935397836716,
+      "median_delivery_days": 9.14787037037037,
+      "reviewed_orders": 6722,
+      "low_reviews": 723,
+      "low_review_rate": 10.755727462064861
+    },
+    {
+      "group": "2018-06",
+      "orders": 6096,
+      "late_orders": 71,
+      "late_rate": 1.1646981627296589,
+      "median_delivery_days": 7.95761574074074,
+      "reviewed_orders": 6072,
+      "low_reviews": 606,
+      "low_review_rate": 9.980237154150197
+    },
+    {
+      "group": "2018-07",
+      "orders": 6156,
+      "late_orders": 208,
+      "late_rate": 3.378817413905133,
+      "median_delivery_days": 7.5017245370370365,
+      "reviewed_orders": 6118,
+      "low_reviews": 592,
+      "low_review_rate": 9.676364825106244
+    },
+    {
+      "group": "2018-08",
+      "orders": 6351,
+      "late_orders": 393,
+      "late_rate": 6.188001889466226,
+      "median_delivery_days": 7.013703703703704,
+      "reviewed_orders": 6330,
+      "low_reviews": 604,
+      "low_review_rate": 9.541864139020538
+    }
+  ],
+  "categories": [
+    {
+      "group": "agro_industry_and_commerce",
+      "orders": 177,
+      "late_orders": 7,
+      "late_rate": 3.9548022598870056,
+      "median_delivery_days": 9.176747685185186,
+      "reviewed_orders": 177,
+      "low_reviews": 22,
+      "low_review_rate": 12.429378531073446
+    },
+    {
+      "group": "air_conditioning",
+      "orders": 244,
+      "late_orders": 10,
+      "late_rate": 4.098360655737705,
+      "median_delivery_days": 9.267337962962962,
+      "reviewed_orders": 240,
+      "low_reviews": 33,
+      "low_review_rate": 13.75
+    },
+    {
+      "group": "art",
+      "orders": 189,
+      "late_orders": 12,
+      "late_rate": 6.349206349206349,
+      "median_delivery_days": 9.596018518518518,
+      "reviewed_orders": 187,
+      "low_reviews": 24,
+      "low_review_rate": 12.834224598930481
+    },
+    {
+      "group": "arts_and_craftmanship",
+      "orders": 21,
+      "late_orders": 1,
+      "late_rate": 4.761904761904762,
+      "median_delivery_days": 4.885381944444444,
+      "reviewed_orders": 21,
+      "low_reviews": 2,
+      "low_review_rate": 9.523809523809524
+    },
+    {
+      "group": "audio",
+      "orders": 342,
+      "late_orders": 41,
+      "late_rate": 11.988304093567251,
+      "median_delivery_days": 10.808067129629631,
+      "reviewed_orders": 339,
+      "low_reviews": 72,
+      "low_review_rate": 21.238938053097346
+    },
+    {
+      "group": "auto",
+      "orders": 3773,
+      "late_orders": 278,
+      "late_rate": 7.368142062019613,
+      "median_delivery_days": 9.746840277777778,
+      "reviewed_orders": 3755,
+      "low_reviews": 474,
+      "low_review_rate": 12.623169107856192
+    },
+    {
+      "group": "baby",
+      "orders": 2716,
+      "late_orders": 224,
+      "late_rate": 8.24742268041237,
+      "median_delivery_days": 10.08892939814815,
+      "reviewed_orders": 2695,
+      "low_reviews": 357,
+      "low_review_rate": 13.246753246753247
+    },
+    {
+      "group": "bed_bath_table",
+      "orders": 9069,
+      "late_orders": 684,
+      "late_rate": 7.542176645716176,
+      "median_delivery_days": 10.781354166666667,
+      "reviewed_orders": 8976,
+      "low_reviews": 1395,
+      "low_review_rate": 15.54144385026738
+    },
+    {
+      "group": "books_general_interest",
+      "orders": 490,
+      "late_orders": 32,
+      "late_rate": 6.530612244897959,
+      "median_delivery_days": 9.65199074074074,
+      "reviewed_orders": 486,
+      "low_reviews": 30,
+      "low_review_rate": 6.172839506172839
+    },
+    {
+      "group": "books_imported",
+      "orders": 49,
+      "late_orders": 1,
+      "late_rate": 2.0408163265306123,
+      "median_delivery_days": 6.3311574074074075,
+      "reviewed_orders": 49,
+      "low_reviews": 4,
+      "low_review_rate": 8.16326530612245
+    },
+    {
+      "group": "books_technical",
+      "orders": 252,
+      "late_orders": 21,
+      "late_rate": 8.333333333333334,
+      "median_delivery_days": 8.897592592592591,
+      "reviewed_orders": 251,
+      "low_reviews": 22,
+      "low_review_rate": 8.764940239043824
+    },
+    {
+      "group": "cds_dvds_musicals",
+      "orders": 12,
+      "late_orders": 0,
+      "late_rate": 0.0,
+      "median_delivery_days": 10.406591435185184,
+      "reviewed_orders": 12,
+      "low_reviews": 0,
+      "low_review_rate": 0.0
+    },
+    {
+      "group": "christmas_supplies",
+      "orders": 124,
+      "late_orders": 10,
+      "late_rate": 8.064516129032258,
+      "median_delivery_days": 13.078032407407408,
+      "reviewed_orders": 122,
+      "low_reviews": 14,
+      "low_review_rate": 11.475409836065573
+    },
+    {
+      "group": "cine_photo",
+      "orders": 61,
+      "late_orders": 4,
+      "late_rate": 6.557377049180328,
+      "median_delivery_days": 8.56412037037037,
+      "reviewed_orders": 61,
+      "low_reviews": 5,
+      "low_review_rate": 8.19672131147541
+    },
+    {
+      "group": "computers",
+      "orders": 176,
+      "late_orders": 10,
+      "late_rate": 5.681818181818182,
+      "median_delivery_days": 11.202430555555555,
+      "reviewed_orders": 173,
+      "low_reviews": 19,
+      "low_review_rate": 10.982658959537572
+    },
+    {
+      "group": "computers_accessories",
+      "orders": 6478,
+      "late_orders": 417,
+      "late_rate": 6.437171966656376,
+      "median_delivery_days": 11.11894675925926,
+      "reviewed_orders": 6447,
+      "low_reviews": 928,
+      "low_review_rate": 14.394291918721887
+    },
+    {
+      "group": "consoles_games",
+      "orders": 1010,
+      "late_orders": 62,
+      "late_rate": 6.138613861386139,
+      "median_delivery_days": 11.344525462962963,
+      "reviewed_orders": 1001,
+      "low_reviews": 108,
+      "low_review_rate": 10.78921078921079
+    },
+    {
+      "group": "construction_tools_construction",
+      "orders": 719,
+      "late_orders": 54,
+      "late_rate": 7.510431154381084,
+      "median_delivery_days": 8.853472222222223,
+      "reviewed_orders": 714,
+      "low_reviews": 91,
+      "low_review_rate": 12.745098039215685
+    },
+    {
+      "group": "construction_tools_lights",
+      "orders": 224,
+      "late_orders": 15,
+      "late_rate": 6.696428571428571,
+      "median_delivery_days": 8.1128125,
+      "reviewed_orders": 221,
+      "low_reviews": 19,
+      "low_review_rate": 8.597285067873303
+    },
+    {
+      "group": "construction_tools_safety",
+      "orders": 152,
+      "late_orders": 4,
+      "late_rate": 2.6315789473684212,
+      "median_delivery_days": 9.304010416666667,
+      "reviewed_orders": 151,
+      "low_reviews": 24,
+      "low_review_rate": 15.894039735099337
+    },
+    {
+      "group": "cool_stuff",
+      "orders": 3492,
+      "late_orders": 208,
+      "late_rate": 5.956471935853379,
+      "median_delivery_days": 10.449895833333333,
+      "reviewed_orders": 3464,
+      "low_reviews": 363,
+      "low_review_rate": 10.479214780600461
+    },
+    {
+      "group": "costruction_tools_garden",
+      "orders": 178,
+      "late_orders": 10,
+      "late_rate": 5.617977528089888,
+      "median_delivery_days": 10.229774305555555,
+      "reviewed_orders": 178,
+      "low_reviews": 19,
+      "low_review_rate": 10.674157303370787
+    },
+    {
+      "group": "costruction_tools_tools",
+      "orders": 97,
+      "late_orders": 6,
+      "late_rate": 6.185567010309279,
+      "median_delivery_days": 10.90244212962963,
+      "reviewed_orders": 94,
+      "low_reviews": 8,
+      "low_review_rate": 8.51063829787234
+    },
+    {
+      "group": "diapers_and_hygiene",
+      "orders": 25,
+      "late_orders": 0,
+      "late_rate": 0.0,
+      "median_delivery_days": 9.34162037037037,
+      "reviewed_orders": 25,
+      "low_reviews": 3,
+      "low_review_rate": 12.0
+    },
+    {
+      "group": "drinks",
+      "orders": 279,
+      "late_orders": 15,
+      "late_rate": 5.376344086021505,
+      "median_delivery_days": 8.058680555555556,
+      "reviewed_orders": 279,
+      "low_reviews": 27,
+      "low_review_rate": 9.67741935483871
+    },
+    {
+      "group": "dvds_blu_ray",
+      "orders": 54,
+      "late_orders": 4,
+      "late_rate": 7.407407407407407,
+      "median_delivery_days": 11.937708333333333,
+      "reviewed_orders": 54,
+      "low_reviews": 8,
+      "low_review_rate": 14.814814814814815
+    },
+    {
+      "group": "electronics",
+      "orders": 2494,
+      "late_orders": 192,
+      "late_rate": 7.698476343223737,
+      "median_delivery_days": 11.03490162037037,
+      "reviewed_orders": 2475,
+      "low_reviews": 321,
+      "low_review_rate": 12.969696969696969
+    },
+    {
+      "group": "fashio_female_clothing",
+      "orders": 35,
+      "late_orders": 2,
+      "late_rate": 5.714285714285714,
+      "median_delivery_days": 10.771944444444445,
+      "reviewed_orders": 35,
+      "low_reviews": 5,
+      "low_review_rate": 14.285714285714286
+    },
+    {
+      "group": "fashion_bags_accessories",
+      "orders": 1801,
+      "late_orders": 100,
+      "late_rate": 5.55247084952804,
+      "median_delivery_days": 9.005787037037036,
+      "reviewed_orders": 1793,
+      "low_reviews": 178,
+      "low_review_rate": 9.927495817066369
+    },
+    {
+      "group": "fashion_childrens_clothes",
+      "orders": 5,
+      "late_orders": 0,
+      "late_rate": 0.0,
+      "median_delivery_days": 4.858657407407407,
+      "reviewed_orders": 5,
+      "low_reviews": 0,
+      "low_review_rate": 0.0
+    },
+    {
+      "group": "fashion_male_clothing",
+      "orders": 106,
+      "late_orders": 5,
+      "late_rate": 4.716981132075472,
+      "median_delivery_days": 11.13583912037037,
+      "reviewed_orders": 105,
+      "low_reviews": 24,
+      "low_review_rate": 22.857142857142858
+    },
+    {
+      "group": "fashion_shoes",
+      "orders": 233,
+      "late_orders": 11,
+      "late_rate": 4.721030042918455,
+      "median_delivery_days": 14.079918981481482,
+      "reviewed_orders": 229,
+      "low_reviews": 25,
+      "low_review_rate": 10.91703056768559
+    },
+    {
+      "group": "fashion_sport",
+      "orders": 24,
+      "late_orders": 1,
+      "late_rate": 4.166666666666667,
+      "median_delivery_days": 9.559548611111111,
+      "reviewed_orders": 24,
+      "low_reviews": 1,
+      "low_review_rate": 4.166666666666667
+    },
+    {
+      "group": "fashion_underwear_beach",
+      "orders": 117,
+      "late_orders": 11,
+      "late_rate": 9.401709401709402,
+      "median_delivery_days": 11.169884259259259,
+      "reviewed_orders": 116,
+      "low_reviews": 19,
+      "low_review_rate": 16.379310344827587
+    },
+    {
+      "group": "fixed_telephony",
+      "orders": 210,
+      "late_orders": 10,
+      "late_rate": 4.761904761904762,
+      "median_delivery_days": 10.872824074074074,
+      "reviewed_orders": 207,
+      "low_reviews": 35,
+      "low_review_rate": 16.908212560386474
+    },
+    {
+      "group": "flowers",
+      "orders": 27,
+      "late_orders": 1,
+      "late_rate": 3.7037037037037037,
+      "median_delivery_days": 9.758414351851853,
+      "reviewed_orders": 26,
+      "low_reviews": 1,
+      "low_review_rate": 3.8461538461538463
+    },
+    {
+      "group": "food",
+      "orders": 433,
+      "late_orders": 31,
+      "late_rate": 7.159353348729792,
+      "median_delivery_days": 7.187777777777778,
+      "reviewed_orders": 429,
+      "low_reviews": 43,
+      "low_review_rate": 10.023310023310023
+    },
+    {
+      "group": "food_drink",
+      "orders": 217,
+      "late_orders": 8,
+      "late_rate": 3.686635944700461,
+      "median_delivery_days": 8.797824074074073,
+      "reviewed_orders": 217,
+      "low_reviews": 9,
+      "low_review_rate": 4.147465437788019
+    },
+    {
+      "group": "furniture_bedroom",
+      "orders": 87,
+      "late_orders": 6,
+      "late_rate": 6.896551724137931,
+      "median_delivery_days": 12.020659722222222,
+      "reviewed_orders": 87,
+      "low_reviews": 10,
+      "low_review_rate": 11.494252873563218
+    },
+    {
+      "group": "furniture_decor",
+      "orders": 6103,
+      "late_orders": 446,
+      "late_rate": 7.307881369818122,
+      "median_delivery_days": 10.937465277777777,
+      "reviewed_orders": 6058,
+      "low_reviews": 877,
+      "low_review_rate": 14.476724991746451
+    },
+    {
+      "group": "furniture_living_room",
+      "orders": 398,
+      "late_orders": 31,
+      "late_rate": 7.788944723618091,
+      "median_delivery_days": 12.15744212962963,
+      "reviewed_orders": 393,
+      "low_reviews": 49,
+      "low_review_rate": 12.468193384223918
+    },
+    {
+      "group": "furniture_mattress_and_upholstery",
+      "orders": 37,
+      "late_orders": 5,
+      "late_rate": 13.513513513513514,
+      "median_delivery_days": 9.48880787037037,
+      "reviewed_orders": 37,
+      "low_reviews": 7,
+      "low_review_rate": 18.91891891891892
+    },
+    {
+      "group": "garden_tools",
+      "orders": 3377,
+      "late_orders": 225,
+      "late_rate": 6.6627183891027535,
+      "median_delivery_days": 11.755810185185185,
+      "reviewed_orders": 3358,
+      "low_reviews": 384,
+      "low_review_rate": 11.435378201310304
+    },
+    {
+      "group": "health_beauty",
+      "orders": 8576,
+      "late_orders": 648,
+      "late_rate": 7.5559701492537314,
+      "median_delivery_days": 9.599681712962962,
+      "reviewed_orders": 8530,
+      "low_reviews": 959,
+      "low_review_rate": 11.242672919109028
+    },
+    {
+      "group": "home_appliances",
+      "orders": 747,
+      "late_orders": 33,
+      "late_rate": 4.417670682730924,
+      "median_delivery_days": 9.411782407407408,
+      "reviewed_orders": 744,
+      "low_reviews": 82,
+      "low_review_rate": 11.021505376344086
+    },
+    {
+      "group": "home_appliances_2",
+      "orders": 226,
+      "late_orders": 14,
+      "late_rate": 6.1946902654867255,
+      "median_delivery_days": 10.984565972222223,
+      "reviewed_orders": 225,
+      "low_reviews": 28,
+      "low_review_rate": 12.444444444444445
+    },
+    {
+      "group": "home_comfort_2",
+      "orders": 22,
+      "late_orders": 3,
+      "late_rate": 13.636363636363637,
+      "median_delivery_days": 11.468373842592593,
+      "reviewed_orders": 21,
+      "low_reviews": 4,
+      "low_review_rate": 19.047619047619047
+    },
+    {
+      "group": "home_confort",
+      "orders": 342,
+      "late_orders": 35,
+      "late_rate": 10.23391812865497,
+      "median_delivery_days": 11.46037037037037,
+      "reviewed_orders": 340,
+      "low_reviews": 57,
+      "low_review_rate": 16.764705882352942
+    },
+    {
+      "group": "home_construction",
+      "orders": 457,
+      "late_orders": 29,
+      "late_rate": 6.3457330415754925,
+      "median_delivery_days": 11.583275462962963,
+      "reviewed_orders": 455,
+      "low_reviews": 64,
+      "low_review_rate": 14.065934065934066
+    },
+    {
+      "group": "housewares",
+      "orders": 5627,
+      "late_orders": 307,
+      "late_rate": 5.455837924293585,
+      "median_delivery_days": 8.954189814814814,
+      "reviewed_orders": 5594,
+      "low_reviews": 630,
+      "low_review_rate": 11.262066499821238
+    },
+    {
+      "group": "industry_commerce_and_business",
+      "orders": 227,
+      "late_orders": 16,
+      "late_rate": 7.048458149779735,
+      "median_delivery_days": 8.410046296296295,
+      "reviewed_orders": 225,
+      "low_reviews": 22,
+      "low_review_rate": 9.777777777777779
+    },
+    {
+      "group": "kitchen_dining_laundry_garden_furniture",
+      "orders": 235,
+      "late_orders": 11,
+      "late_rate": 4.680851063829787,
+      "median_delivery_days": 9.374386574074075,
+      "reviewed_orders": 233,
+      "low_reviews": 25,
+      "low_review_rate": 10.729613733905579
+    },
+    {
+      "group": "la_cuisine",
+      "orders": 11,
+      "late_orders": 0,
+      "late_rate": 0.0,
+      "median_delivery_days": 6.803460648148148,
+      "reviewed_orders": 11,
+      "low_reviews": 1,
+      "low_review_rate": 9.090909090909092
+    },
+    {
+      "group": "luggage_accessories",
+      "orders": 1004,
+      "late_orders": 43,
+      "late_rate": 4.282868525896414,
+      "median_delivery_days": 9.050538194444444,
+      "reviewed_orders": 1000,
+      "low_reviews": 78,
+      "low_review_rate": 7.8
+    },
+    {
+      "group": "market_place",
+      "orders": 262,
+      "late_orders": 11,
+      "late_rate": 4.198473282442748,
+      "median_delivery_days": 10.907465277777778,
+      "reviewed_orders": 260,
+      "low_reviews": 28,
+      "low_review_rate": 10.76923076923077
+    },
+    {
+      "group": "multiple_categories",
+      "orders": 780,
+      "late_orders": 17,
+      "late_rate": 2.1794871794871793,
+      "median_delivery_days": 8.09171875,
+      "reviewed_orders": 774,
+      "low_reviews": 325,
+      "low_review_rate": 41.98966408268734
+    },
+    {
+      "group": "music",
+      "orders": 36,
+      "late_orders": 2,
+      "late_rate": 5.555555555555555,
+      "median_delivery_days": 9.551105324074074,
+      "reviewed_orders": 36,
+      "low_reviews": 2,
+      "low_review_rate": 5.555555555555555
+    },
+    {
+      "group": "musical_instruments",
+      "orders": 603,
+      "late_orders": 46,
+      "late_rate": 7.628524046434494,
+      "median_delivery_days": 10.607488425925926,
+      "reviewed_orders": 597,
+      "low_reviews": 68,
+      "low_review_rate": 11.390284757118929
+    },
+    {
+      "group": "office_furniture",
+      "orders": 1239,
+      "late_orders": 101,
+      "late_rate": 8.151735270379339,
+      "median_delivery_days": 18.930138888888887,
+      "reviewed_orders": 1229,
+      "low_reviews": 265,
+      "low_review_rate": 21.562245728234338
+    },
+    {
+      "group": "party_supplies",
+      "orders": 37,
+      "late_orders": 0,
+      "late_rate": 0.0,
+      "median_delivery_days": 7.864340277777778,
+      "reviewed_orders": 37,
+      "low_reviews": 6,
+      "low_review_rate": 16.216216216216218
+    },
+    {
+      "group": "perfumery",
+      "orders": 3059,
+      "late_orders": 202,
+      "late_rate": 6.603465184700883,
+      "median_delivery_days": 9.467118055555556,
+      "reviewed_orders": 3049,
+      "low_reviews": 351,
+      "low_review_rate": 11.511971138078058
+    },
+    {
+      "group": "pet_shop",
+      "orders": 1673,
+      "late_orders": 83,
+      "late_rate": 4.961147638971907,
+      "median_delivery_days": 9.53570601851852,
+      "reviewed_orders": 1665,
+      "low_reviews": 170,
+      "low_review_rate": 10.21021021021021
+    },
+    {
+      "group": "security_and_services",
+      "orders": 2,
+      "late_orders": 0,
+      "late_rate": 0.0,
+      "median_delivery_days": 15.138153935185183,
+      "reviewed_orders": 2,
+      "low_reviews": 1,
+      "low_review_rate": 50.0
+    },
+    {
+      "group": "signaling_and_security",
+      "orders": 137,
+      "late_orders": 6,
+      "late_rate": 4.37956204379562,
+      "median_delivery_days": 8.42357638888889,
+      "reviewed_orders": 136,
+      "low_reviews": 15,
+      "low_review_rate": 11.029411764705882
+    },
+    {
+      "group": "small_appliances",
+      "orders": 603,
+      "late_orders": 29,
+      "late_rate": 4.8092868988391375,
+      "median_delivery_days": 9.012314814814815,
+      "reviewed_orders": 598,
+      "low_reviews": 66,
+      "low_review_rate": 11.036789297658864
+    },
+    {
+      "group": "small_appliances_home_oven_and_coffee",
+      "orders": 72,
+      "late_orders": 4,
+      "late_rate": 5.555555555555555,
+      "median_delivery_days": 7.749265046296296,
+      "reviewed_orders": 72,
+      "low_reviews": 5,
+      "low_review_rate": 6.944444444444445
+    },
+    {
+      "group": "sports_leisure",
+      "orders": 7457,
+      "late_orders": 493,
+      "late_rate": 6.61123776317554,
+      "median_delivery_days": 10.12693287037037,
+      "reviewed_orders": 7413,
+      "low_reviews": 821,
+      "low_review_rate": 11.075138270605693
+    },
+    {
+      "group": "stationery",
+      "orders": 2231,
+      "late_orders": 148,
+      "late_rate": 6.6337965038099505,
+      "median_delivery_days": 10.241990740740741,
+      "reviewed_orders": 2218,
+      "low_reviews": 213,
+      "low_review_rate": 9.603246167718666
+    },
+    {
+      "group": "tablets_printing_image",
+      "orders": 76,
+      "late_orders": 4,
+      "late_rate": 5.2631578947368425,
+      "median_delivery_days": 11.984369212962964,
+      "reviewed_orders": 74,
+      "low_reviews": 9,
+      "low_review_rate": 12.162162162162161
+    },
+    {
+      "group": "telephony",
+      "orders": 4066,
+      "late_orders": 291,
+      "late_rate": 7.156910969011314,
+      "median_delivery_days": 10.824809027777778,
+      "reviewed_orders": 4042,
+      "low_reviews": 562,
+      "low_review_rate": 13.904007916872835
+    },
+    {
+      "group": "toys",
+      "orders": 3752,
+      "late_orders": 241,
+      "late_rate": 6.423240938166312,
+      "median_delivery_days": 9.43636574074074,
+      "reviewed_orders": 3722,
+      "low_reviews": 412,
+      "low_review_rate": 11.06931757119828
+    },
+    {
+      "group": "unknown",
+      "orders": 1351,
+      "late_orders": 96,
+      "late_rate": 7.105847520355292,
+      "median_delivery_days": 10.719143518518518,
+      "reviewed_orders": 1343,
+      "low_reviews": 216,
+      "low_review_rate": 16.083395383469842
+    },
+    {
+      "group": "watches_gifts",
+      "orders": 5453,
+      "late_orders": 406,
+      "late_rate": 7.445442875481387,
+      "median_delivery_days": 10.3634375,
+      "reviewed_orders": 5413,
+      "low_reviews": 728,
+      "low_review_rate": 13.449104008867542
+    }
+  ],
+  "routes": [
+    {
+      "group": "cross_state",
+      "orders": 60961,
+      "late_orders": 4961,
+      "late_rate": 8.137989862371024,
+      "median_delivery_days": 12.841122685185185,
+      "reviewed_orders": 60537,
+      "low_reviews": 8270,
+      "low_review_rate": 13.661066785602193
+    },
+    {
+      "group": "multiple_sellers",
+      "orders": 1275,
+      "late_orders": 13,
+      "late_rate": 1.0196078431372548,
+      "median_delivery_days": 7.927650462962963,
+      "reviewed_orders": 1261,
+      "low_reviews": 595,
+      "low_review_rate": 47.1847739888977
+    },
+    {
+      "group": "same_state",
+      "orders": 34234,
+      "late_orders": 1560,
+      "late_rate": 4.556873283869837,
+      "median_delivery_days": 6.589166666666667,
+      "reviewed_orders": 34026,
+      "low_reviews": 3407,
+      "low_review_rate": 10.012931287838711
+    }
+  ],
+  "delivery_groups": [
+    {
+      "group": "on_time",
+      "orders": 89936,
+      "late_orders": 0,
+      "late_rate": 0.0,
+      "median_delivery_days": 9.811753472222222,
+      "reviewed_orders": 89443,
+      "low_reviews": 8289,
+      "low_review_rate": 9.267354628087162
+    },
+    {
+      "group": "late",
+      "orders": 6534,
+      "late_orders": 6534,
+      "late_rate": 100.0,
+      "median_delivery_days": 31.249774305555555,
+      "reviewed_orders": 6381,
+      "low_reviews": 3983,
+      "low_review_rate": 62.419683435198245
+    }
+  ],
+  "single_review_sensitivity": [
+    {
+      "group": "on_time",
+      "orders": 88946,
+      "late_orders": 0,
+      "late_rate": 0.0,
+      "median_delivery_days": 9.79615162037037,
+      "reviewed_orders": 88946,
+      "low_reviews": 8227,
+      "low_review_rate": 9.249432239785937
+    },
+    {
+      "group": "late",
+      "orders": 6353,
+      "late_orders": 6353,
+      "late_rate": 100.0,
+      "median_delivery_days": 31.140775462962964,
+      "reviewed_orders": 6353,
+      "low_reviews": 3962,
+      "low_review_rate": 62.36423736817252
+    }
+  ],
+  "stages": [
+    {
+      "group": "on_time",
+      "orders": 88573,
+      "approval_days": 0.39483478892280105,
+      "handover_days": 2.6516988926480813,
+      "transit_days": 8.003788277173339,
+      "total_days": 11.05032195874422,
+      "promise_days": 23.8254275777074
+    },
+    {
+      "group": "late",
+      "orders": 6509,
+      "approval_days": 0.5010212977899546,
+      "handover_days": 5.573975138767974,
+      "transit_days": 27.875078930953155,
+      "total_days": 33.95007536751108,
+      "promise_days": 22.643424274010915
+    }
+  ]
+}
