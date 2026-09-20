@@ -1,0 +1,11 @@
+// Budget has no channel dimension. Use these measures in report visuals.
+Comparable Budget Revenue =
+IF(ISFILTERED(dim_customer[channel]), BLANK(), [Budget Revenue])
+
+Comparable Budget Variance % =
+IF(ISBLANK([Comparable Budget Revenue]), BLANK(),
+    DIVIDE([Revenue] - [Comparable Budget Revenue], [Comparable Budget Revenue]))
+
+Budget Scope Note =
+IF(ISFILTERED(dim_customer[channel]), "Budget unavailable by channel",
+   "Budget available by whole month, region and category")

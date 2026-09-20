@@ -1,0 +1,39 @@
+Revenue = SUM(fact_sales[net_sales])
+
+Gross Sales = SUM(fact_sales[gross_sales])
+
+Gross Profit = SUM(fact_sales[gross_profit])
+
+Gross Margin % = DIVIDE([Gross Profit], [Revenue])
+
+Units Sold = SUM(fact_sales[quantity])
+
+Orders = DISTINCTCOUNT(fact_sales[order_id])
+
+Average Order Value = DIVIDE([Revenue], [Orders])
+
+Average Discount % = AVERAGE(fact_sales[discount_pct])
+
+Revenue LY =
+CALCULATE([Revenue], SAMEPERIODLASTYEAR(dim_date[date]))
+
+Revenue YoY % =
+DIVIDE([Revenue] - [Revenue LY], [Revenue LY])
+
+Gross Profit LY =
+CALCULATE([Gross Profit], SAMEPERIODLASTYEAR(dim_date[date]))
+
+Gross Profit YoY % =
+DIVIDE([Gross Profit] - [Gross Profit LY], [Gross Profit LY])
+
+Gross Margin LY % =
+CALCULATE([Gross Margin %], SAMEPERIODLASTYEAR(dim_date[date]))
+
+Gross Margin Change pp =
+([Gross Margin %] - [Gross Margin LY %]) * 100
+
+Budget Revenue = SUM(budget_monthly[revenue_budget])
+
+Budget Variance = [Revenue] - [Budget Revenue]
+
+Budget Variance % = DIVIDE([Budget Variance], [Budget Revenue])

@@ -1,0 +1,1 @@
+document.querySelectorAll('.case-nav a').forEach(a=>a.addEventListener('click',()=>{document.querySelectorAll('.case-nav a').forEach(x=>x.removeAttribute('aria-current'));a.setAttribute('aria-current','location')}));

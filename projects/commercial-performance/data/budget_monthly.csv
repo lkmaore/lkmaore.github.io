@@ -1,0 +1,1120 @@
+year_month,region,category,revenue_budget
+2024-01,Central,Beverages,23946.22
+2024-01,Central,Household,66038.16
+2024-01,Central,Personal Care,89036.65
+2024-01,Central,Snacks,27927.14
+2024-01,Central,Staples,18095.09
+2024-01,Coast,Beverages,22661.47
+2024-01,Coast,Household,30944.82
+2024-01,Coast,Personal Care,45619.9
+2024-01,Coast,Snacks,5096.52
+2024-01,Coast,Staples,50451.79
+2024-01,Eastern,Beverages,9655.07
+2024-01,Eastern,Household,72283.36
+2024-01,Eastern,Personal Care,25329.91
+2024-01,Eastern,Snacks,21581.95
+2024-01,Eastern,Staples,23747.27
+2024-01,Nairobi,Beverages,58328.18
+2024-01,Nairobi,Household,101956.3
+2024-01,Nairobi,Personal Care,99337.15
+2024-01,Nairobi,Snacks,40536.42
+2024-01,Nairobi,Staples,63440.04
+2024-01,Nyanza,Beverages,23428.47
+2024-01,Nyanza,Household,64882.81
+2024-01,Nyanza,Personal Care,99160.85
+2024-01,Nyanza,Snacks,26493.7
+2024-01,Nyanza,Staples,15505.65
+2024-01,Rift Valley,Beverages,37438.94
+2024-01,Rift Valley,Household,71681.67
+2024-01,Rift Valley,Personal Care,100541.99
+2024-01,Rift Valley,Snacks,35393.04
+2024-01,Rift Valley,Staples,36738.52
+2024-01,Western,Beverages,21991.69
+2024-01,Western,Household,50617.58
+2024-01,Western,Personal Care,133157.7
+2024-01,Western,Snacks,37004.09
+2024-01,Western,Staples,70294.08
+2024-02,Central,Beverages,19792.03
+2024-02,Central,Household,45357.8
+2024-02,Central,Personal Care,41324.2
+2024-02,Central,Snacks,7114.39
+2024-02,Central,Staples,20150.58
+2024-02,Coast,Beverages,36628.39
+2024-02,Coast,Household,45735.35
+2024-02,Coast,Personal Care,92102.17
+2024-02,Coast,Snacks,20188.96
+2024-02,Coast,Staples,28951.67
+2024-02,Eastern,Beverages,3804.51
+2024-02,Eastern,Household,20855.77
+2024-02,Eastern,Personal Care,20960.4
+2024-02,Eastern,Snacks,6526.81
+2024-02,Eastern,Staples,35852.36
+2024-02,Nairobi,Beverages,68382.21
+2024-02,Nairobi,Household,159180.65
+2024-02,Nairobi,Personal Care,121598.34
+2024-02,Nairobi,Snacks,42927.18
+2024-02,Nairobi,Staples,159506.52
+2024-02,Nyanza,Beverages,32112.83
+2024-02,Nyanza,Household,34509.54
+2024-02,Nyanza,Personal Care,46008.19
+2024-02,Nyanza,Snacks,7567.98
+2024-02,Nyanza,Staples,29023.33
+2024-02,Rift Valley,Beverages,61603.4
+2024-02,Rift Valley,Household,47399.55
+2024-02,Rift Valley,Personal Care,114793.78
+2024-02,Rift Valley,Snacks,34858.55
+2024-02,Rift Valley,Staples,50382.3
+2024-02,Western,Beverages,20107.55
+2024-02,Western,Household,40685.38
+2024-02,Western,Personal Care,90977.37
+2024-02,Western,Snacks,17156.59
+2024-02,Western,Staples,35059.66
+2024-03,Central,Beverages,13583.25
+2024-03,Central,Household,92026.13
+2024-03,Central,Personal Care,226371.6
+2024-03,Central,Snacks,18096.51
+2024-03,Central,Staples,64728.75
+2024-03,Coast,Beverages,17731.79
+2024-03,Coast,Household,36186.93
+2024-03,Coast,Personal Care,84501.45
+2024-03,Coast,Snacks,34413.75
+2024-03,Coast,Staples,16665.2
+2024-03,Eastern,Household,13677.66
+2024-03,Eastern,Personal Care,62456.25
+2024-03,Eastern,Snacks,18073.85
+2024-03,Eastern,Staples,14080.12
+2024-03,Nairobi,Beverages,72444.99
+2024-03,Nairobi,Household,140904.16
+2024-03,Nairobi,Personal Care,223846.22
+2024-03,Nairobi,Snacks,41888.09
+2024-03,Nairobi,Staples,128166.47
+2024-03,Nyanza,Beverages,19367.3
+2024-03,Nyanza,Household,46577.77
+2024-03,Nyanza,Personal Care,95913.31
+2024-03,Nyanza,Snacks,15344.96
+2024-03,Nyanza,Staples,30900.59
+2024-03,Rift Valley,Beverages,63575.09
+2024-03,Rift Valley,Household,102827.83
+2024-03,Rift Valley,Personal Care,111377.88
+2024-03,Rift Valley,Snacks,18954.1
+2024-03,Rift Valley,Staples,44011.3
+2024-03,Western,Beverages,9141.73
+2024-03,Western,Household,24157.3
+2024-03,Western,Personal Care,59176.76
+2024-03,Western,Snacks,11089.34
+2024-03,Western,Staples,7115.9
+2024-04,Central,Beverages,36798.4
+2024-04,Central,Household,64019.52
+2024-04,Central,Personal Care,91089.91
+2024-04,Central,Snacks,32930.67
+2024-04,Central,Staples,26445.4
+2024-04,Coast,Beverages,10178.65
+2024-04,Coast,Household,34000.95
+2024-04,Coast,Personal Care,51352.07
+2024-04,Coast,Snacks,4371.42
+2024-04,Coast,Staples,24296.05
+2024-04,Eastern,Beverages,844.35
+2024-04,Eastern,Household,14631.16
+2024-04,Eastern,Personal Care,43196.27
+2024-04,Eastern,Snacks,2190.83
+2024-04,Eastern,Staples,31373.66
+2024-04,Nairobi,Beverages,79988.99
+2024-04,Nairobi,Household,215422.76
+2024-04,Nairobi,Personal Care,334242.88
+2024-04,Nairobi,Snacks,76674.19
+2024-04,Nairobi,Staples,122364.28
+2024-04,Nyanza,Beverages,14390.73
+2024-04,Nyanza,Household,85866.94
+2024-04,Nyanza,Personal Care,77165.86
+2024-04,Nyanza,Snacks,21142.1
+2024-04,Nyanza,Staples,34233.76
+2024-04,Rift Valley,Beverages,31545.34
+2024-04,Rift Valley,Household,99212.9
+2024-04,Rift Valley,Personal Care,222059.29
+2024-04,Rift Valley,Snacks,23191.68
+2024-04,Rift Valley,Staples,50485.09
+2024-04,Western,Beverages,21830.64
+2024-04,Western,Household,25526.33
+2024-04,Western,Personal Care,84636.57
+2024-04,Western,Snacks,22514.36
+2024-04,Western,Staples,47688.17
+2024-05,Central,Beverages,35163.18
+2024-05,Central,Household,61978.05
+2024-05,Central,Personal Care,108406.07
+2024-05,Central,Snacks,11630.5
+2024-05,Central,Staples,32543.32
+2024-05,Coast,Beverages,14441.51
+2024-05,Coast,Household,84590.19
+2024-05,Coast,Personal Care,19054.91
+2024-05,Coast,Snacks,12167.97
+2024-05,Coast,Staples,21438.82
+2024-05,Eastern,Beverages,10309.86
+2024-05,Eastern,Household,58118.63
+2024-05,Eastern,Personal Care,103506.67
+2024-05,Eastern,Snacks,23046.47
+2024-05,Eastern,Staples,46224.94
+2024-05,Nairobi,Beverages,116235.52
+2024-05,Nairobi,Household,182036.29
+2024-05,Nairobi,Personal Care,324204.99
+2024-05,Nairobi,Snacks,62206.65
+2024-05,Nairobi,Staples,93032.45
+2024-05,Nyanza,Beverages,35232.27
+2024-05,Nyanza,Household,24406.66
+2024-05,Nyanza,Personal Care,57074.73
+2024-05,Nyanza,Snacks,14424.21
+2024-05,Nyanza,Staples,25891.82
+2024-05,Rift Valley,Beverages,29173.0
+2024-05,Rift Valley,Household,159439.2
+2024-05,Rift Valley,Personal Care,177699.83
+2024-05,Rift Valley,Snacks,25642.23
+2024-05,Rift Valley,Staples,45569.97
+2024-05,Western,Beverages,4809.72
+2024-05,Western,Household,27207.86
+2024-05,Western,Personal Care,42176.14
+2024-05,Western,Snacks,3855.86
+2024-05,Western,Staples,23109.85
+2024-06,Central,Beverages,17067.86
+2024-06,Central,Household,80129.14
+2024-06,Central,Personal Care,32545.43
+2024-06,Central,Snacks,13594.69
+2024-06,Central,Staples,27976.95
+2024-06,Coast,Beverages,22964.24
+2024-06,Coast,Household,25843.77
+2024-06,Coast,Personal Care,123659.1
+2024-06,Coast,Snacks,5885.36
+2024-06,Coast,Staples,14324.45
+2024-06,Eastern,Beverages,20733.58
+2024-06,Eastern,Household,29876.19
+2024-06,Eastern,Personal Care,52358.11
+2024-06,Eastern,Snacks,14205.98
+2024-06,Eastern,Staples,19958.37
+2024-06,Nairobi,Beverages,91924.99
+2024-06,Nairobi,Household,145529.48
+2024-06,Nairobi,Personal Care,300563.32
+2024-06,Nairobi,Snacks,55204.19
+2024-06,Nairobi,Staples,149630.2
+2024-06,Nyanza,Beverages,17996.57
+2024-06,Nyanza,Household,38279.21
+2024-06,Nyanza,Personal Care,64554.65
+2024-06,Nyanza,Snacks,8261.63
+2024-06,Nyanza,Staples,37815.29
+2024-06,Rift Valley,Beverages,52029.41
+2024-06,Rift Valley,Household,152644.14
+2024-06,Rift Valley,Personal Care,172882.6
+2024-06,Rift Valley,Snacks,30983.2
+2024-06,Rift Valley,Staples,85290.19
+2024-06,Western,Beverages,17361.92
+2024-06,Western,Household,58395.51
+2024-06,Western,Personal Care,88701.97
+2024-06,Western,Snacks,13223.56
+2024-06,Western,Staples,30462.51
+2024-07,Central,Beverages,43164.72
+2024-07,Central,Household,45074.38
+2024-07,Central,Personal Care,157722.86
+2024-07,Central,Snacks,42188.65
+2024-07,Central,Staples,69456.11
+2024-07,Coast,Beverages,18243.74
+2024-07,Coast,Household,64175.16
+2024-07,Coast,Personal Care,14030.2
+2024-07,Coast,Snacks,5829.57
+2024-07,Coast,Staples,20141.78
+2024-07,Eastern,Beverages,17104.07
+2024-07,Eastern,Household,39047.18
+2024-07,Eastern,Personal Care,29802.4
+2024-07,Eastern,Snacks,7926.12
+2024-07,Eastern,Staples,17927.02
+2024-07,Nairobi,Beverages,87295.51
+2024-07,Nairobi,Household,95904.28
+2024-07,Nairobi,Personal Care,228409.83
+2024-07,Nairobi,Snacks,59579.37
+2024-07,Nairobi,Staples,115117.25
+2024-07,Nyanza,Beverages,52909.01
+2024-07,Nyanza,Household,71547.5
+2024-07,Nyanza,Personal Care,55480.58
+2024-07,Nyanza,Snacks,29897.22
+2024-07,Nyanza,Staples,82072.73
+2024-07,Rift Valley,Beverages,42078.01
+2024-07,Rift Valley,Household,148791.08
+2024-07,Rift Valley,Personal Care,204700.0
+2024-07,Rift Valley,Snacks,14572.94
+2024-07,Rift Valley,Staples,86665.39
+2024-07,Western,Beverages,9004.83
+2024-07,Western,Household,40659.97
+2024-07,Western,Personal Care,31052.17
+2024-07,Western,Snacks,15669.39
+2024-07,Western,Staples,21941.48
+2024-08,Central,Beverages,48208.21
+2024-08,Central,Household,94974.34
+2024-08,Central,Personal Care,52344.88
+2024-08,Central,Snacks,24933.76
+2024-08,Central,Staples,27210.9
+2024-08,Coast,Beverages,13887.92
+2024-08,Coast,Household,27994.55
+2024-08,Coast,Personal Care,17816.82
+2024-08,Coast,Snacks,15327.79
+2024-08,Coast,Staples,26924.77
+2024-08,Eastern,Beverages,16264.63
+2024-08,Eastern,Household,39398.38
+2024-08,Eastern,Personal Care,28625.64
+2024-08,Eastern,Snacks,6715.52
+2024-08,Eastern,Staples,13883.22
+2024-08,Nairobi,Beverages,72082.23
+2024-08,Nairobi,Household,155394.06
+2024-08,Nairobi,Personal Care,193123.24
+2024-08,Nairobi,Snacks,91426.17
+2024-08,Nairobi,Staples,137593.14
+2024-08,Nyanza,Beverages,6168.15
+2024-08,Nyanza,Household,44842.98
+2024-08,Nyanza,Personal Care,36430.88
+2024-08,Nyanza,Snacks,15199.92
+2024-08,Nyanza,Staples,30473.34
+2024-08,Rift Valley,Beverages,17383.83
+2024-08,Rift Valley,Household,102252.03
+2024-08,Rift Valley,Personal Care,154173.72
+2024-08,Rift Valley,Snacks,32915.68
+2024-08,Rift Valley,Staples,58099.5
+2024-08,Western,Beverages,8668.33
+2024-08,Western,Household,223540.31
+2024-08,Western,Personal Care,130282.6
+2024-08,Western,Snacks,17916.44
+2024-08,Western,Staples,89059.46
+2024-09,Central,Beverages,34731.17
+2024-09,Central,Household,48652.62
+2024-09,Central,Personal Care,154921.58
+2024-09,Central,Snacks,17962.72
+2024-09,Central,Staples,50203.79
+2024-09,Coast,Beverages,22326.83
+2024-09,Coast,Household,39633.82
+2024-09,Coast,Personal Care,38469.07
+2024-09,Coast,Snacks,5889.49
+2024-09,Coast,Staples,31779.4
+2024-09,Eastern,Beverages,7990.58
+2024-09,Eastern,Household,54245.9
+2024-09,Eastern,Personal Care,54730.08
+2024-09,Eastern,Snacks,4456.17
+2024-09,Eastern,Staples,9255.63
+2024-09,Nairobi,Beverages,84986.63
+2024-09,Nairobi,Household,150009.78
+2024-09,Nairobi,Personal Care,344957.6
+2024-09,Nairobi,Snacks,73946.82
+2024-09,Nairobi,Staples,122035.93
+2024-09,Nyanza,Beverages,16120.63
+2024-09,Nyanza,Household,40686.39
+2024-09,Nyanza,Personal Care,86640.58
+2024-09,Nyanza,Snacks,11518.35
+2024-09,Nyanza,Staples,53063.9
+2024-09,Rift Valley,Beverages,50082.97
+2024-09,Rift Valley,Household,170486.03
+2024-09,Rift Valley,Personal Care,168533.08
+2024-09,Rift Valley,Snacks,22767.39
+2024-09,Rift Valley,Staples,105997.15
+2024-09,Western,Beverages,10908.46
+2024-09,Western,Household,36179.02
+2024-09,Western,Personal Care,43788.7
+2024-09,Western,Snacks,20119.5
+2024-09,Western,Staples,6152.35
+2024-10,Central,Beverages,21290.72
+2024-10,Central,Household,43161.7
+2024-10,Central,Personal Care,102231.93
+2024-10,Central,Snacks,20309.66
+2024-10,Central,Staples,19950.5
+2024-10,Coast,Beverages,16225.88
+2024-10,Coast,Household,69286.77
+2024-10,Coast,Personal Care,60815.12
+2024-10,Coast,Snacks,10903.22
+2024-10,Coast,Staples,57944.52
+2024-10,Eastern,Beverages,2352.75
+2024-10,Eastern,Household,36576.69
+2024-10,Eastern,Personal Care,16139.93
+2024-10,Eastern,Snacks,2003.63
+2024-10,Eastern,Staples,23404.84
+2024-10,Nairobi,Beverages,62577.32
+2024-10,Nairobi,Household,132714.01
+2024-10,Nairobi,Personal Care,334978.78
+2024-10,Nairobi,Snacks,58502.51
+2024-10,Nairobi,Staples,155887.03
+2024-10,Nyanza,Beverages,7816.9
+2024-10,Nyanza,Household,56802.47
+2024-10,Nyanza,Personal Care,89381.59
+2024-10,Nyanza,Snacks,3934.9
+2024-10,Nyanza,Staples,27827.06
+2024-10,Rift Valley,Beverages,38677.89
+2024-10,Rift Valley,Household,189343.38
+2024-10,Rift Valley,Personal Care,164810.69
+2024-10,Rift Valley,Snacks,39876.77
+2024-10,Rift Valley,Staples,160338.06
+2024-10,Western,Beverages,15423.27
+2024-10,Western,Household,33059.72
+2024-10,Western,Personal Care,131993.28
+2024-10,Western,Snacks,17858.84
+2024-10,Western,Staples,23725.17
+2024-11,Central,Beverages,36374.55
+2024-11,Central,Household,41904.81
+2024-11,Central,Personal Care,118893.75
+2024-11,Central,Snacks,29243.86
+2024-11,Central,Staples,23651.19
+2024-11,Coast,Beverages,29716.34
+2024-11,Coast,Household,36996.71
+2024-11,Coast,Personal Care,30946.04
+2024-11,Coast,Snacks,15372.69
+2024-11,Coast,Staples,35648.43
+2024-11,Eastern,Beverages,16512.42
+2024-11,Eastern,Household,6565.8
+2024-11,Eastern,Personal Care,108856.49
+2024-11,Eastern,Snacks,11357.89
+2024-11,Eastern,Staples,20384.63
+2024-11,Nairobi,Beverages,87237.96
+2024-11,Nairobi,Household,237990.53
+2024-11,Nairobi,Personal Care,270991.96
+2024-11,Nairobi,Snacks,52429.21
+2024-11,Nairobi,Staples,115177.9
+2024-11,Nyanza,Beverages,18670.95
+2024-11,Nyanza,Household,86409.14
+2024-11,Nyanza,Personal Care,163868.15
+2024-11,Nyanza,Snacks,26561.79
+2024-11,Nyanza,Staples,25843.74
+2024-11,Rift Valley,Beverages,37035.96
+2024-11,Rift Valley,Household,79491.7
+2024-11,Rift Valley,Personal Care,189720.9
+2024-11,Rift Valley,Snacks,44538.46
+2024-11,Rift Valley,Staples,104640.5
+2024-11,Western,Beverages,25530.35
+2024-11,Western,Household,44012.98
+2024-11,Western,Personal Care,141290.7
+2024-11,Western,Snacks,16774.41
+2024-11,Western,Staples,70179.22
+2024-12,Central,Beverages,36395.73
+2024-12,Central,Household,86758.24
+2024-12,Central,Personal Care,194398.15
+2024-12,Central,Snacks,51403.61
+2024-12,Central,Staples,96583.39
+2024-12,Coast,Beverages,33083.66
+2024-12,Coast,Household,72150.87
+2024-12,Coast,Personal Care,106714.85
+2024-12,Coast,Snacks,14728.61
+2024-12,Coast,Staples,47965.36
+2024-12,Eastern,Beverages,16897.69
+2024-12,Eastern,Household,16025.5
+2024-12,Eastern,Personal Care,49967.96
+2024-12,Eastern,Snacks,28400.07
+2024-12,Eastern,Staples,9128.75
+2024-12,Nairobi,Beverages,83061.27
+2024-12,Nairobi,Household,221488.23
+2024-12,Nairobi,Personal Care,313561.83
+2024-12,Nairobi,Snacks,76945.34
+2024-12,Nairobi,Staples,162953.44
+2024-12,Nyanza,Beverages,18974.18
+2024-12,Nyanza,Household,117249.21
+2024-12,Nyanza,Personal Care,67199.42
+2024-12,Nyanza,Snacks,14275.04
+2024-12,Nyanza,Staples,84920.72
+2024-12,Rift Valley,Beverages,39567.1
+2024-12,Rift Valley,Household,118483.15
+2024-12,Rift Valley,Personal Care,144811.76
+2024-12,Rift Valley,Snacks,29837.43
+2024-12,Rift Valley,Staples,96227.4
+2024-12,Western,Beverages,37460.98
+2024-12,Western,Household,90341.51
+2024-12,Western,Personal Care,143936.19
+2024-12,Western,Snacks,21048.16
+2024-12,Western,Staples,28230.81
+2025-01,Central,Beverages,28828.46
+2025-01,Central,Household,79502.25
+2025-01,Central,Personal Care,107189.75
+2025-01,Central,Snacks,33621.03
+2025-01,Central,Staples,21784.38
+2025-01,Coast,Beverages,27281.77
+2025-01,Coast,Household,37253.95
+2025-01,Coast,Personal Care,54921.04
+2025-01,Coast,Snacks,6135.62
+2025-01,Coast,Staples,60738.08
+2025-01,Eastern,Beverages,11623.57
+2025-01,Eastern,Household,87020.74
+2025-01,Eastern,Personal Care,30494.26
+2025-01,Eastern,Snacks,25982.15
+2025-01,Eastern,Staples,28588.94
+2025-01,Nairobi,Beverages,70220.33
+2025-01,Nairobi,Household,122743.51
+2025-01,Nairobi,Personal Care,119590.35
+2025-01,Nairobi,Snacks,48801.13
+2025-01,Nairobi,Staples,76374.41
+2025-01,Nyanza,Beverages,28205.15
+2025-01,Nyanza,Household,78111.34
+2025-01,Nyanza,Personal Care,119378.11
+2025-01,Nyanza,Snacks,31895.33
+2025-01,Nyanza,Staples,18667.0
+2025-01,Rift Valley,Beverages,45072.13
+2025-01,Rift Valley,Household,86296.37
+2025-01,Rift Valley,Personal Care,121040.84
+2025-01,Rift Valley,Snacks,42609.09
+2025-01,Rift Valley,Staples,44228.9
+2025-01,Western,Beverages,26475.44
+2025-01,Western,Household,60937.68
+2025-01,Western,Personal Care,160306.36
+2025-01,Western,Snacks,44548.61
+2025-01,Western,Staples,84625.89
+2025-02,Central,Beverages,23827.29
+2025-02,Central,Household,54605.51
+2025-02,Central,Personal Care,49749.52
+2025-02,Central,Snacks,8564.89
+2025-02,Central,Staples,24258.95
+2025-02,Coast,Beverages,44096.31
+2025-02,Coast,Household,55060.03
+2025-02,Coast,Personal Care,110880.28
+2025-02,Coast,Snacks,24305.15
+2025-02,Coast,Staples,34854.44
+2025-02,Eastern,Beverages,4580.19
+2025-02,Eastern,Household,25107.92
+2025-02,Eastern,Personal Care,25233.88
+2025-02,Eastern,Snacks,7857.52
+2025-02,Eastern,Staples,43162.07
+2025-02,Nairobi,Beverages,82324.22
+2025-02,Nairobi,Household,191634.96
+2025-02,Nairobi,Personal Care,146390.24
+2025-02,Nairobi,Snacks,51679.32
+2025-02,Nairobi,Staples,192027.27
+2025-02,Nyanza,Beverages,38660.1
+2025-02,Nyanza,Household,41545.47
+2025-02,Nyanza,Personal Care,55388.5
+2025-02,Nyanza,Snacks,9110.96
+2025-02,Nyanza,Staples,34940.71
+2025-02,Rift Valley,Beverages,74163.32
+2025-02,Rift Valley,Household,57063.54
+2025-02,Rift Valley,Personal Care,138198.34
+2025-02,Rift Valley,Snacks,41965.63
+2025-02,Rift Valley,Staples,60654.41
+2025-02,Western,Beverages,24207.15
+2025-02,Western,Household,48980.45
+2025-02,Western,Personal Care,109526.15
+2025-02,Western,Snacks,20654.53
+2025-02,Western,Staples,42207.74
+2025-03,Central,Beverages,16352.65
+2025-03,Central,Household,110788.74
+2025-03,Central,Personal Care,272525.03
+2025-03,Central,Snacks,21786.09
+2025-03,Central,Staples,77925.88
+2025-03,Coast,Beverages,21347.01
+2025-03,Coast,Household,43564.85
+2025-03,Coast,Personal Care,101729.9
+2025-03,Coast,Snacks,41430.15
+2025-03,Coast,Staples,20062.96
+2025-03,Eastern,Beverages,8341.43
+2025-03,Eastern,Household,16466.31
+2025-03,Eastern,Personal Care,75190.05
+2025-03,Eastern,Snacks,21758.81
+2025-03,Eastern,Staples,16950.82
+2025-03,Nairobi,Beverages,87215.33
+2025-03,Nairobi,Household,169632.2
+2025-03,Nairobi,Personal Care,269484.77
+2025-03,Nairobi,Snacks,50428.38
+2025-03,Nairobi,Staples,154297.5
+2025-03,Nyanza,Beverages,23315.97
+2025-03,Nyanza,Household,56074.21
+2025-03,Nyanza,Personal Care,115468.45
+2025-03,Nyanza,Snacks,18473.54
+2025-03,Nyanza,Staples,37200.71
+2025-03,Rift Valley,Beverages,76537.0
+2025-03,Rift Valley,Household,123792.72
+2025-03,Rift Valley,Personal Care,134085.99
+2025-03,Rift Valley,Snacks,22818.53
+2025-03,Rift Valley,Staples,52984.48
+2025-03,Western,Beverages,11005.58
+2025-03,Western,Household,29082.57
+2025-03,Western,Personal Care,71241.93
+2025-03,Western,Snacks,13350.27
+2025-03,Western,Staples,8566.71
+2025-04,Central,Beverages,44300.98
+2025-04,Central,Household,77072.04
+2025-04,Central,Personal Care,109661.64
+2025-04,Central,Snacks,39644.68
+2025-04,Central,Staples,31837.19
+2025-04,Coast,Beverages,12253.9
+2025-04,Coast,Household,40933.18
+2025-04,Coast,Personal Care,61821.91
+2025-04,Coast,Snacks,5262.68
+2025-04,Coast,Staples,29249.62
+2025-04,Eastern,Beverages,1016.5
+2025-04,Eastern,Household,17614.21
+2025-04,Eastern,Personal Care,52003.28
+2025-04,Eastern,Snacks,2637.5
+2025-04,Eastern,Staples,37770.23
+2025-04,Nairobi,Beverages,96297.42
+2025-04,Nairobi,Household,259343.9
+2025-04,Nairobi,Personal Care,402389.48
+2025-04,Nairobi,Snacks,92306.79
+2025-04,Nairobi,Staples,147312.33
+2025-04,Nyanza,Beverages,17324.76
+2025-04,Nyanza,Household,103373.79
+2025-04,Nyanza,Personal Care,92898.7
+2025-04,Nyanza,Snacks,25452.62
+2025-04,Nyanza,Staples,41213.46
+2025-04,Rift Valley,Beverages,37976.91
+2025-04,Rift Valley,Household,119440.77
+2025-04,Rift Valley,Personal Care,267333.52
+2025-04,Rift Valley,Snacks,27920.08
+2025-04,Rift Valley,Staples,60778.17
+2025-04,Western,Beverages,26281.55
+2025-04,Western,Household,30730.73
+2025-04,Western,Personal Care,101892.57
+2025-04,Western,Snacks,27104.67
+2025-04,Western,Staples,57411.01
+2025-05,Central,Beverages,42332.37
+2025-05,Central,Household,74614.35
+2025-05,Central,Personal Care,130508.28
+2025-05,Central,Snacks,14001.77
+2025-05,Central,Staples,39178.37
+2025-05,Coast,Beverages,17385.89
+2025-05,Coast,Household,101836.74
+2025-05,Coast,Personal Care,22939.89
+2025-05,Coast,Snacks,14648.81
+2025-05,Coast,Staples,25809.84
+2025-05,Eastern,Beverages,12411.87
+2025-05,Eastern,Household,69968.05
+2025-05,Eastern,Personal Care,124609.97
+2025-05,Eastern,Snacks,27745.26
+2025-05,Eastern,Staples,55649.44
+2025-05,Nairobi,Beverages,139934.02
+2025-05,Nairobi,Household,219150.48
+2025-05,Nairobi,Personal Care,390305.04
+2025-05,Nairobi,Snacks,74889.56
+2025-05,Nairobi,Staples,112000.23
+2025-05,Nyanza,Beverages,42415.55
+2025-05,Nyanza,Household,29382.78
+2025-05,Nyanza,Personal Care,68711.33
+2025-05,Nyanza,Snacks,17365.07
+2025-05,Nyanza,Staples,31170.74
+2025-05,Rift Valley,Beverages,35120.89
+2025-05,Rift Valley,Household,191946.22
+2025-05,Rift Valley,Personal Care,213929.89
+2025-05,Rift Valley,Snacks,30870.26
+2025-05,Rift Valley,Staples,54860.94
+2025-05,Western,Beverages,5790.34
+2025-05,Western,Household,32755.09
+2025-05,Western,Personal Care,50775.16
+2025-05,Western,Snacks,4642.01
+2025-05,Western,Staples,27821.57
+2025-06,Central,Beverages,20547.72
+2025-06,Central,Household,96466.15
+2025-06,Central,Personal Care,39180.91
+2025-06,Central,Snacks,16366.43
+2025-06,Central,Staples,33680.99
+2025-06,Coast,Beverages,27646.27
+2025-06,Coast,Household,31112.89
+2025-06,Coast,Personal Care,148871.15
+2025-06,Coast,Snacks,7085.29
+2025-06,Coast,Staples,17244.97
+2025-06,Eastern,Beverages,24960.82
+2025-06,Eastern,Household,35967.45
+2025-06,Eastern,Personal Care,63033.06
+2025-06,Eastern,Snacks,17102.34
+2025-06,Eastern,Staples,24027.55
+2025-06,Nairobi,Beverages,110666.97
+2025-06,Nairobi,Household,175200.54
+2025-06,Nairobi,Personal Care,361843.23
+2025-06,Nairobi,Snacks,66459.41
+2025-06,Nairobi,Staples,180137.33
+2025-06,Nyanza,Beverages,21665.78
+2025-06,Nyanza,Household,46083.71
+2025-06,Nyanza,Personal Care,77716.28
+2025-06,Nyanza,Snacks,9946.04
+2025-06,Nyanza,Staples,45525.2
+2025-06,Rift Valley,Beverages,62637.35
+2025-06,Rift Valley,Household,183765.76
+2025-06,Rift Valley,Personal Care,208130.51
+2025-06,Rift Valley,Snacks,37300.17
+2025-06,Rift Valley,Staples,102679.45
+2025-06,Western,Beverages,20901.73
+2025-06,Western,Household,70301.4
+2025-06,Western,Personal Care,106786.84
+2025-06,Western,Snacks,15919.62
+2025-06,Western,Staples,36673.31
+2025-07,Central,Beverages,51965.3
+2025-07,Central,Household,54264.3
+2025-07,Central,Personal Care,189879.94
+2025-07,Central,Snacks,50790.21
+2025-07,Central,Staples,83617.07
+2025-07,Coast,Beverages,21963.34
+2025-07,Coast,Household,77259.42
+2025-07,Coast,Personal Care,16890.73
+2025-07,Coast,Snacks,7018.13
+2025-07,Coast,Staples,24248.36
+2025-07,Eastern,Beverages,20591.3
+2025-07,Eastern,Household,47008.25
+2025-07,Eastern,Personal Care,35878.62
+2025-07,Eastern,Snacks,9542.12
+2025-07,Eastern,Staples,21582.04
+2025-07,Nairobi,Beverages,105093.62
+2025-07,Nairobi,Household,115457.58
+2025-07,Nairobi,Personal Care,274978.82
+2025-07,Nairobi,Snacks,71726.62
+2025-07,Nairobi,Staples,138587.76
+2025-07,Nyanza,Beverages,63696.28
+2025-07,Nyanza,Household,86134.85
+2025-07,Nyanza,Personal Care,66792.16
+2025-07,Nyanza,Snacks,35992.77
+2025-07,Nyanza,Staples,98806.0
+2025-07,Rift Valley,Beverages,50657.03
+2025-07,Rift Valley,Household,179127.13
+2025-07,Rift Valley,Personal Care,246434.95
+2025-07,Rift Valley,Snacks,17544.13
+2025-07,Rift Valley,Staples,104335.04
+2025-07,Western,Beverages,10840.76
+2025-07,Western,Household,48949.86
+2025-07,Western,Personal Care,37383.19
+2025-07,Western,Snacks,18864.11
+2025-07,Western,Staples,26414.98
+2025-08,Central,Beverages,58037.07
+2025-08,Central,Household,114338.04
+2025-08,Central,Personal Care,63017.14
+2025-08,Central,Snacks,30017.34
+2025-08,Central,Staples,32758.75
+2025-08,Coast,Beverages,16719.44
+2025-08,Coast,Household,33702.17
+2025-08,Coast,Personal Care,21449.37
+2025-08,Coast,Snacks,18452.87
+2025-08,Coast,Staples,32414.28
+2025-08,Eastern,Beverages,19580.72
+2025-08,Eastern,Household,47431.05
+2025-08,Eastern,Personal Care,34461.93
+2025-08,Eastern,Snacks,8084.7
+2025-08,Eastern,Staples,16713.77
+2025-08,Nairobi,Beverages,86778.61
+2025-08,Nairobi,Household,187076.34
+2025-08,Nairobi,Personal Care,232497.89
+2025-08,Nairobi,Snacks,110066.45
+2025-08,Nairobi,Staples,165646.11
+2025-08,Nyanza,Beverages,7425.74
+2025-08,Nyanza,Household,53985.72
+2025-08,Nyanza,Personal Care,43858.54
+2025-08,Nyanza,Snacks,18298.93
+2025-08,Nyanza,Staples,36686.35
+2025-08,Rift Valley,Beverages,20928.1
+2025-08,Rift Valley,Household,123099.54
+2025-08,Rift Valley,Personal Care,185607.2
+2025-08,Rift Valley,Snacks,39626.64
+2025-08,Rift Valley,Staples,69945.03
+2025-08,Western,Beverages,10435.66
+2025-08,Western,Household,269116.49
+2025-08,Western,Personal Care,156845.07
+2025-08,Western,Snacks,21569.31
+2025-08,Western,Staples,107217.22
+2025-09,Central,Beverages,41812.28
+2025-09,Central,Household,58572.08
+2025-09,Central,Personal Care,186507.54
+2025-09,Central,Snacks,21625.02
+2025-09,Central,Staples,60439.51
+2025-09,Coast,Beverages,26878.9
+2025-09,Coast,Household,47714.51
+2025-09,Coast,Personal Care,46312.28
+2025-09,Coast,Snacks,7090.26
+2025-09,Coast,Staples,38258.7
+2025-09,Eastern,Beverages,9619.72
+2025-09,Eastern,Household,65305.74
+2025-09,Eastern,Personal Care,65888.64
+2025-09,Eastern,Snacks,5364.71
+2025-09,Eastern,Staples,11142.7
+2025-09,Nairobi,Beverages,102314.0
+2025-09,Nairobi,Household,180594.29
+2025-09,Nairobi,Personal Care,415288.76
+2025-09,Nairobi,Snacks,89023.36
+2025-09,Nairobi,Staples,146917.05
+2025-09,Nyanza,Beverages,19407.36
+2025-09,Nyanza,Household,48981.67
+2025-09,Nyanza,Personal Care,104305.17
+2025-09,Nyanza,Snacks,13866.75
+2025-09,Nyanza,Staples,63882.75
+2025-09,Rift Valley,Beverages,60294.06
+2025-09,Rift Valley,Household,205245.32
+2025-09,Rift Valley,Personal Care,202894.19
+2025-09,Rift Valley,Snacks,27409.28
+2025-09,Rift Valley,Staples,127608.21
+2025-09,Western,Beverages,13132.51
+2025-09,Western,Household,43555.32
+2025-09,Western,Personal Care,52716.5
+2025-09,Western,Snacks,24221.54
+2025-09,Western,Staples,7406.71
+2025-10,Central,Beverages,25631.54
+2025-10,Central,Household,51961.65
+2025-10,Central,Personal Care,123075.33
+2025-10,Central,Snacks,24450.47
+2025-10,Central,Staples,24018.08
+2025-10,Coast,Beverages,19534.07
+2025-10,Coast,Household,83413.2
+2025-10,Coast,Personal Care,73214.31
+2025-10,Coast,Snacks,13126.21
+2025-10,Coast,Staples,69758.46
+2025-10,Eastern,Beverages,2832.43
+2025-10,Eastern,Household,44034.07
+2025-10,Eastern,Personal Care,19430.59
+2025-10,Eastern,Snacks,2412.13
+2025-10,Eastern,Staples,28176.71
+2025-10,Nairobi,Beverages,75335.8
+2025-10,Nairobi,Household,159772.2
+2025-10,Nairobi,Personal Care,403275.43
+2025-10,Nairobi,Snacks,70430.2
+2025-10,Nairobi,Staples,187669.82
+2025-10,Nyanza,Beverages,9410.63
+2025-10,Nyanza,Household,68383.56
+2025-10,Nyanza,Personal Care,107605.02
+2025-10,Nyanza,Snacks,4737.16
+2025-10,Nyanza,Staples,33500.53
+2025-10,Rift Valley,Beverages,46563.67
+2025-10,Rift Valley,Household,227947.36
+2025-10,Rift Valley,Personal Care,198412.87
+2025-10,Rift Valley,Snacks,48006.98
+2025-10,Rift Valley,Staples,193028.34
+2025-10,Western,Beverages,18567.82
+2025-10,Western,Household,39800.05
+2025-10,Western,Personal Care,158904.53
+2025-10,Western,Snacks,21499.97
+2025-10,Western,Staples,28562.34
+2025-11,Central,Beverages,43790.72
+2025-11,Central,Household,50448.51
+2025-11,Central,Personal Care,143134.22
+2025-11,Central,Snacks,35206.2
+2025-11,Central,Staples,28473.28
+2025-11,Coast,Beverages,35775.02
+2025-11,Coast,Household,44539.73
+2025-11,Coast,Personal Care,37255.43
+2025-11,Coast,Snacks,18506.93
+2025-11,Coast,Staples,42916.56
+2025-11,Eastern,Beverages,19879.04
+2025-11,Eastern,Household,7904.45
+2025-11,Eastern,Personal Care,131050.53
+2025-11,Eastern,Snacks,13673.58
+2025-11,Eastern,Staples,24540.72
+2025-11,Nairobi,Beverages,105024.34
+2025-11,Nairobi,Household,286512.87
+2025-11,Nairobi,Personal Care,326242.74
+2025-11,Nairobi,Snacks,63118.67
+2025-11,Nairobi,Staples,138660.77
+2025-11,Nyanza,Beverages,22477.65
+2025-11,Nyanza,Household,104026.54
+2025-11,Nyanza,Personal Care,197278.16
+2025-11,Nyanza,Snacks,31977.31
+2025-11,Nyanza,Staples,31112.85
+2025-11,Rift Valley,Beverages,44586.98
+2025-11,Rift Valley,Household,95698.75
+2025-11,Rift Valley,Personal Care,228401.85
+2025-11,Rift Valley,Snacks,53619.11
+2025-11,Rift Valley,Staples,125974.97
+2025-11,Western,Beverages,30735.57
+2025-11,Western,Household,52986.5
+2025-11,Western,Personal Care,170097.55
+2025-11,Western,Snacks,20194.44
+2025-11,Western,Staples,84487.6
+2025-12,Central,Beverages,43816.22
+2025-12,Central,Household,104446.81
+2025-12,Central,Personal Care,234032.72
+2025-12,Central,Snacks,61883.96
+2025-12,Central,Staples,116275.15
+2025-12,Coast,Beverages,39828.87
+2025-12,Coast,Household,86861.24
+2025-12,Coast,Personal Care,128472.25
+2025-12,Coast,Snacks,17731.53
+2025-12,Coast,Staples,57744.7
+2025-12,Eastern,Beverages,20342.84
+2025-12,Eastern,Household,19292.84
+2025-12,Eastern,Personal Care,60155.6
+2025-12,Eastern,Snacks,34190.37
+2025-12,Eastern,Staples,10989.95
+2025-12,Nairobi,Beverages,99996.09
+2025-12,Nairobi,Household,266646.03
+2025-12,Nairobi,Personal Care,377491.91
+2025-12,Nairobi,Snacks,92633.22
+2025-12,Nairobi,Staples,196176.95
+2025-12,Nyanza,Beverages,22842.7
+2025-12,Nyanza,Household,141154.38
+2025-12,Nyanza,Personal Care,80900.27
+2025-12,Nyanza,Snacks,17185.48
+2025-12,Nyanza,Staples,102234.65
+2025-12,Rift Valley,Beverages,47634.18
+2025-12,Rift Valley,Household,142639.9
+2025-12,Rift Valley,Personal Care,174336.48
+2025-12,Rift Valley,Snacks,35920.79
+2025-12,Rift Valley,Staples,115846.58
+2025-12,Western,Beverages,45098.65
+2025-12,Western,Household,108760.65
+2025-12,Western,Personal Care,173282.41
+2025-12,Western,Snacks,25339.53
+2025-12,Western,Staples,33986.61
+2026-01,Central,Beverages,23923.58
+2026-01,Central,Household,126918.36
+2026-01,Central,Personal Care,174145.18
+2026-01,Central,Snacks,31615.32
+2026-01,Central,Staples,77481.68
+2026-01,Coast,Beverages,5948.34
+2026-01,Coast,Household,74446.24
+2026-01,Coast,Personal Care,53636.71
+2026-01,Coast,Snacks,17097.05
+2026-01,Coast,Staples,37388.21
+2026-01,Eastern,Beverages,25888.8
+2026-01,Eastern,Household,58277.09
+2026-01,Eastern,Personal Care,115433.78
+2026-01,Eastern,Snacks,14861.29
+2026-01,Eastern,Staples,43642.64
+2026-01,Nairobi,Beverages,76948.22
+2026-01,Nairobi,Household,177426.89
+2026-01,Nairobi,Personal Care,394781.12
+2026-01,Nairobi,Snacks,66022.4
+2026-01,Nairobi,Staples,143257.06
+2026-01,Nyanza,Beverages,18191.85
+2026-01,Nyanza,Household,69664.74
+2026-01,Nyanza,Personal Care,85023.71
+2026-01,Nyanza,Snacks,17014.06
+2026-01,Nyanza,Staples,53537.24
+2026-01,Rift Valley,Beverages,46631.09
+2026-01,Rift Valley,Household,171152.79
+2026-01,Rift Valley,Personal Care,133674.07
+2026-01,Rift Valley,Snacks,56273.26
+2026-01,Rift Valley,Staples,155849.95
+2026-01,Western,Beverages,10330.54
+2026-01,Western,Household,71885.01
+2026-01,Western,Personal Care,156074.6
+2026-01,Western,Snacks,6121.75
+2026-01,Western,Staples,12608.36
+2026-02,Central,Beverages,73671.77
+2026-02,Central,Household,57616.08
+2026-02,Central,Personal Care,165885.24
+2026-02,Central,Snacks,38608.96
+2026-02,Central,Staples,80471.76
+2026-02,Coast,Beverages,12309.74
+2026-02,Coast,Household,50223.93
+2026-02,Coast,Personal Care,36317.78
+2026-02,Coast,Snacks,4774.37
+2026-02,Coast,Staples,39047.33
+2026-02,Eastern,Beverages,4044.85
+2026-02,Eastern,Household,33505.43
+2026-02,Eastern,Personal Care,36689.48
+2026-02,Eastern,Snacks,7808.37
+2026-02,Eastern,Staples,30836.81
+2026-02,Nairobi,Beverages,94036.32
+2026-02,Nairobi,Household,227455.54
+2026-02,Nairobi,Personal Care,419197.24
+2026-02,Nairobi,Snacks,95096.52
+2026-02,Nairobi,Staples,163245.56
+2026-02,Nyanza,Beverages,35034.95
+2026-02,Nyanza,Household,61346.13
+2026-02,Nyanza,Personal Care,83950.76
+2026-02,Nyanza,Snacks,29184.83
+2026-02,Nyanza,Staples,92345.81
+2026-02,Rift Valley,Beverages,60879.99
+2026-02,Rift Valley,Household,124751.59
+2026-02,Rift Valley,Personal Care,206596.2
+2026-02,Rift Valley,Snacks,31068.09
+2026-02,Rift Valley,Staples,104945.92
+2026-02,Western,Beverages,22611.83
+2026-02,Western,Household,78570.18
+2026-02,Western,Personal Care,22299.44
+2026-02,Western,Snacks,30839.19
+2026-02,Western,Staples,40841.39
+2026-03,Central,Beverages,33770.98
+2026-03,Central,Household,104404.21
+2026-03,Central,Personal Care,185710.46
+2026-03,Central,Snacks,24716.68
+2026-03,Central,Staples,118219.13
+2026-03,Coast,Beverages,37689.29
+2026-03,Coast,Household,81564.0
+2026-03,Coast,Personal Care,151796.99
+2026-03,Coast,Snacks,41641.61
+2026-03,Coast,Staples,95495.6
+2026-03,Eastern,Beverages,8745.05
+2026-03,Eastern,Household,96506.24
+2026-03,Eastern,Personal Care,116054.24
+2026-03,Eastern,Snacks,21545.58
+2026-03,Eastern,Staples,111683.99
+2026-03,Nairobi,Beverages,121419.73
+2026-03,Nairobi,Household,250538.31
+2026-03,Nairobi,Personal Care,446479.05
+2026-03,Nairobi,Snacks,85809.15
+2026-03,Nairobi,Staples,185719.74
+2026-03,Nyanza,Beverages,67068.16
+2026-03,Nyanza,Household,171209.02
+2026-03,Nyanza,Personal Care,127071.46
+2026-03,Nyanza,Snacks,17126.1
+2026-03,Nyanza,Staples,63094.72
+2026-03,Rift Valley,Beverages,44898.89
+2026-03,Rift Valley,Household,125141.71
+2026-03,Rift Valley,Personal Care,228450.24
+2026-03,Rift Valley,Snacks,39101.1
+2026-03,Rift Valley,Staples,50999.91
+2026-03,Western,Beverages,14233.67
+2026-03,Western,Household,67685.27
+2026-03,Western,Personal Care,247770.42
+2026-03,Western,Snacks,24687.84
+2026-03,Western,Staples,45874.63
+2026-04,Central,Beverages,39276.8
+2026-04,Central,Household,124955.53
+2026-04,Central,Personal Care,44075.01
+2026-04,Central,Snacks,35211.84
+2026-04,Central,Staples,78984.72
+2026-04,Coast,Beverages,24877.85
+2026-04,Coast,Household,85753.2
+2026-04,Coast,Personal Care,128773.99
+2026-04,Coast,Snacks,24871.78
+2026-04,Coast,Staples,37579.82
+2026-04,Eastern,Beverages,33714.02
+2026-04,Eastern,Household,69536.21
+2026-04,Eastern,Personal Care,62586.45
+2026-04,Eastern,Snacks,16611.58
+2026-04,Eastern,Staples,24793.03
+2026-04,Nairobi,Beverages,109956.28
+2026-04,Nairobi,Household,332553.48
+2026-04,Nairobi,Personal Care,382298.95
+2026-04,Nairobi,Snacks,134726.21
+2026-04,Nairobi,Staples,179265.11
+2026-04,Nyanza,Beverages,22128.34
+2026-04,Nyanza,Household,36745.98
+2026-04,Nyanza,Personal Care,171479.36
+2026-04,Nyanza,Snacks,12369.2
+2026-04,Nyanza,Staples,22284.08
+2026-04,Rift Valley,Beverages,79910.99
+2026-04,Rift Valley,Household,178309.28
+2026-04,Rift Valley,Personal Care,228403.18
+2026-04,Rift Valley,Snacks,51163.72
+2026-04,Rift Valley,Staples,129828.39
+2026-04,Western,Beverages,37976.79
+2026-04,Western,Household,62159.77
+2026-04,Western,Personal Care,151626.65
+2026-04,Western,Snacks,10399.71
+2026-04,Western,Staples,48978.99
+2026-05,Central,Beverages,40313.46
+2026-05,Central,Household,92265.0
+2026-05,Central,Personal Care,126258.73
+2026-05,Central,Snacks,27255.05
+2026-05,Central,Staples,99678.37
+2026-05,Coast,Beverages,43942.93
+2026-05,Coast,Household,104287.26
+2026-05,Coast,Personal Care,115683.35
+2026-05,Coast,Snacks,31032.18
+2026-05,Coast,Staples,42205.19
+2026-05,Eastern,Beverages,30073.21
+2026-05,Eastern,Household,61154.67
+2026-05,Eastern,Personal Care,154198.44
+2026-05,Eastern,Snacks,20162.82
+2026-05,Eastern,Staples,82244.68
+2026-05,Nairobi,Beverages,88508.73
+2026-05,Nairobi,Household,254346.96
+2026-05,Nairobi,Personal Care,498760.8
+2026-05,Nairobi,Snacks,114740.7
+2026-05,Nairobi,Staples,174698.78
+2026-05,Nyanza,Beverages,27012.58
+2026-05,Nyanza,Household,75608.43
+2026-05,Nyanza,Personal Care,67149.39
+2026-05,Nyanza,Snacks,18717.92
+2026-05,Nyanza,Staples,48647.01
+2026-05,Rift Valley,Beverages,38998.13
+2026-05,Rift Valley,Household,176177.0
+2026-05,Rift Valley,Personal Care,284342.64
+2026-05,Rift Valley,Snacks,37133.99
+2026-05,Rift Valley,Staples,72090.79
+2026-05,Western,Beverages,33038.81
+2026-05,Western,Household,65555.8
+2026-05,Western,Personal Care,150214.19
+2026-05,Western,Snacks,9685.93
+2026-05,Western,Staples,42783.36
+2026-06,Central,Beverages,35702.42
+2026-06,Central,Household,58574.25
+2026-06,Central,Personal Care,197692.01
+2026-06,Central,Snacks,23647.4
+2026-06,Central,Staples,29875.08
+2026-06,Coast,Beverages,36072.69
+2026-06,Coast,Household,107638.83
+2026-06,Coast,Personal Care,63022.19
+2026-06,Coast,Snacks,30789.41
+2026-06,Coast,Staples,38652.11
+2026-06,Eastern,Beverages,11663.13
+2026-06,Eastern,Household,54315.09
+2026-06,Eastern,Personal Care,117225.65
+2026-06,Eastern,Snacks,33627.28
+2026-06,Eastern,Staples,56110.55
+2026-06,Nairobi,Beverages,137819.9
+2026-06,Nairobi,Household,385995.48
+2026-06,Nairobi,Personal Care,418941.37
+2026-06,Nairobi,Snacks,97671.46
+2026-06,Nairobi,Staples,287386.71
+2026-06,Nyanza,Beverages,38902.15
+2026-06,Nyanza,Household,78953.55
+2026-06,Nyanza,Personal Care,270268.47
+2026-06,Nyanza,Snacks,33174.19
+2026-06,Nyanza,Staples,62332.23
+2026-06,Rift Valley,Beverages,30153.36
+2026-06,Rift Valley,Household,121921.11
+2026-06,Rift Valley,Personal Care,78585.82
+2026-06,Rift Valley,Snacks,25259.08
+2026-06,Rift Valley,Staples,81155.02
+2026-06,Western,Beverages,52426.54
+2026-06,Western,Household,65363.2
+2026-06,Western,Personal Care,144999.75
+2026-06,Western,Snacks,21907.79
+2026-06,Western,Staples,75489.01
+2026-07,Central,Beverages,47064.03
+2026-07,Central,Household,104035.72
+2026-07,Central,Personal Care,162317.4
+2026-07,Central,Snacks,22798.23
+2026-07,Central,Staples,142092.57
+2026-07,Coast,Beverages,28788.37
+2026-07,Coast,Household,108733.62
+2026-07,Coast,Personal Care,167090.5
+2026-07,Coast,Snacks,36927.64
+2026-07,Coast,Staples,94394.37
+2026-07,Eastern,Beverages,6549.49
+2026-07,Eastern,Household,4810.1
+2026-07,Eastern,Personal Care,6317.6
+2026-07,Eastern,Snacks,15567.19
+2026-07,Eastern,Staples,35908.43
+2026-07,Nairobi,Beverages,139371.45
+2026-07,Nairobi,Household,376124.3
+2026-07,Nairobi,Personal Care,409987.98
+2026-07,Nairobi,Snacks,79005.15
+2026-07,Nairobi,Staples,217528.75
+2026-07,Nyanza,Beverages,44613.01
+2026-07,Nyanza,Household,70268.51
+2026-07,Nyanza,Personal Care,109167.4
+2026-07,Nyanza,Snacks,57227.78
+2026-07,Nyanza,Staples,54794.22
+2026-07,Rift Valley,Beverages,103014.76
+2026-07,Rift Valley,Household,235959.94
+2026-07,Rift Valley,Personal Care,461801.46
+2026-07,Rift Valley,Snacks,72566.26
+2026-07,Rift Valley,Staples,132511.7
+2026-07,Western,Beverages,47924.15
+2026-07,Western,Household,134263.46
+2026-07,Western,Personal Care,141010.95
+2026-07,Western,Snacks,15419.55
+2026-07,Western,Staples,35122.16
+2026-08,Central,Beverages,42250.81
+2026-08,Central,Household,83418.24
+2026-08,Central,Personal Care,55515.13
+2026-08,Central,Snacks,33882.78
+2026-08,Central,Staples,52835.87
+2026-08,Coast,Beverages,15427.98
+2026-08,Coast,Household,34076.98
+2026-08,Coast,Personal Care,77561.99
+2026-08,Coast,Snacks,10523.02
+2026-08,Coast,Staples,27673.88
+2026-08,Eastern,Beverages,31789.0
+2026-08,Eastern,Household,59745.28
+2026-08,Eastern,Personal Care,78201.87
+2026-08,Eastern,Snacks,36303.19
+2026-08,Eastern,Staples,46922.07
+2026-08,Nairobi,Beverages,170758.96
+2026-08,Nairobi,Household,239889.6
+2026-08,Nairobi,Personal Care,432041.93
+2026-08,Nairobi,Snacks,98111.34
+2026-08,Nairobi,Staples,179824.02
+2026-08,Nyanza,Beverages,22694.42
+2026-08,Nyanza,Household,136953.68
+2026-08,Nyanza,Personal Care,161808.6
+2026-08,Nyanza,Snacks,41000.84
+2026-08,Nyanza,Staples,64519.56
+2026-08,Rift Valley,Beverages,82964.35
+2026-08,Rift Valley,Household,97861.27
+2026-08,Rift Valley,Personal Care,269619.75
+2026-08,Rift Valley,Snacks,44422.72
+2026-08,Rift Valley,Staples,144901.59
+2026-08,Western,Beverages,33172.36
+2026-08,Western,Household,56279.63
+2026-08,Western,Personal Care,26708.77
+2026-08,Western,Snacks,16988.81
+2026-08,Western,Staples,79711.16

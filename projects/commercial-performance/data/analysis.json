@@ -1,0 +1,366 @@
+{
+  "category": [
+    {
+      "segment": "Beverages",
+      "year": "2025",
+      "revenue": 2028806.57,
+      "gp": 345538.35,
+      "discount": 0.04500376569037657
+    },
+    {
+      "segment": "Beverages",
+      "year": "2026",
+      "revenue": 2703093.73,
+      "gp": 380921.65,
+      "discount": 0.054103913894324854
+    },
+    {
+      "segment": "Household",
+      "year": "2025",
+      "revenue": 4971142.14,
+      "gp": 879935.45,
+      "discount": 0.04623373362445415
+    },
+    {
+      "segment": "Household",
+      "year": "2026",
+      "revenue": 5151015.57,
+      "gp": 764749.57,
+      "discount": 0.05409183874139627
+    },
+    {
+      "segment": "Personal Care",
+      "year": "2025",
+      "revenue": 7440439.72,
+      "gp": 2219174.8,
+      "discount": 0.04569288793103448
+    },
+    {
+      "segment": "Personal Care",
+      "year": "2026",
+      "revenue": 9506706.6,
+      "gp": 2627355.49,
+      "discount": 0.05400854126679462
+    },
+    {
+      "segment": "Snacks",
+      "year": "2025",
+      "revenue": 1605141.97,
+      "gp": 377178.44,
+      "discount": 0.044308139534883724
+    },
+    {
+      "segment": "Snacks",
+      "year": "2026",
+      "revenue": 2128549.2,
+      "gp": 443807.22,
+      "discount": 0.05360935960591133
+    },
+    {
+      "segment": "Staples",
+      "year": "2025",
+      "revenue": 3658247.11,
+      "gp": 363123.52,
+      "discount": 0.04541026970954357
+    },
+    {
+      "segment": "Staples",
+      "year": "2026",
+      "revenue": 4534615.99,
+      "gp": 306936.24,
+      "discount": 0.053956018957345975
+    }
+  ],
+  "region": [
+    {
+      "segment": "Central",
+      "year": "2025",
+      "revenue": 2361546.44,
+      "gp": 481170.22,
+      "discount": 0.04778829568788501
+    },
+    {
+      "segment": "Central",
+      "year": "2026",
+      "revenue": 2821770.8,
+      "gp": 531835.07,
+      "discount": 0.05108517110266159
+    },
+    {
+      "segment": "Coast",
+      "year": "2025",
+      "revenue": 1707657.41,
+      "gp": 359964.18,
+      "discount": 0.04268245243128964
+    },
+    {
+      "segment": "Coast",
+      "year": "2026",
+      "revenue": 1912759.88,
+      "gp": 365733.09,
+      "discount": 0.04212259259259259
+    },
+    {
+      "segment": "Eastern",
+      "year": "2025",
+      "revenue": 1420821.68,
+      "gp": 282524.86,
+      "discount": 0.0616677130044843
+    },
+    {
+      "segment": "Eastern",
+      "year": "2026",
+      "revenue": 1654014.42,
+      "gp": 319153.36,
+      "discount": 0.06622857142857143
+    },
+    {
+      "segment": "Nairobi",
+      "year": "2025",
+      "revenue": 6726645.53,
+      "gp": 1445804.18,
+      "discount": 0.04376245772266066
+    },
+    {
+      "segment": "Nairobi",
+      "year": "2026",
+      "revenue": 8128020.29,
+      "gp": 1462351.86,
+      "discount": 0.06423301023155627
+    },
+    {
+      "segment": "Nyanza",
+      "year": "2025",
+      "revenue": 2072774.47,
+      "gp": 454499.93,
+      "discount": 0.042059154929577465
+    },
+    {
+      "segment": "Nyanza",
+      "year": "2026",
+      "revenue": 2526188.45,
+      "gp": 494866.58,
+      "discount": 0.04525545774647888
+    },
+    {
+      "segment": "Rift Valley",
+      "year": "2025",
+      "revenue": 3661720.75,
+      "gp": 792353.54,
+      "discount": 0.04611958041958042
+    },
+    {
+      "segment": "Rift Valley",
+      "year": "2026",
+      "revenue": 4689717.01,
+      "gp": 895677.36,
+      "discount": 0.0473234704112337
+    },
+    {
+      "segment": "Western",
+      "year": "2025",
+      "revenue": 1752611.23,
+      "gp": 368633.65,
+      "discount": 0.04635871559633028
+    },
+    {
+      "segment": "Western",
+      "year": "2026",
+      "revenue": 2291510.24,
+      "gp": 454152.85,
+      "discount": 0.04851958997722096
+    }
+  ],
+  "channel": [
+    {
+      "segment": "E-Commerce",
+      "year": "2025",
+      "revenue": 423014.9,
+      "gp": 95536.69,
+      "discount": 0.035676454293628805
+    },
+    {
+      "segment": "E-Commerce",
+      "year": "2026",
+      "revenue": 608928.74,
+      "gp": 130467.59,
+      "discount": 0.04105404255319149
+    },
+    {
+      "segment": "HoReCa",
+      "year": "2025",
+      "revenue": 1958547.51,
+      "gp": 441561.84,
+      "discount": 0.044145562130177514
+    },
+    {
+      "segment": "HoReCa",
+      "year": "2026",
+      "revenue": 2468504.8,
+      "gp": 499788.95,
+      "discount": 0.0523036231884058
+    },
+    {
+      "segment": "Retail",
+      "year": "2025",
+      "revenue": 3680979.01,
+      "gp": 888127.96,
+      "discount": 0.024600195694716245
+    },
+    {
+      "segment": "Retail",
+      "year": "2026",
+      "revenue": 4216708.84,
+      "gp": 917529.02,
+      "discount": 0.03158803245436106
+    },
+    {
+      "segment": "Supermarket",
+      "year": "2025",
+      "revenue": 4331037.41,
+      "gp": 894439.95,
+      "discount": 0.06489458272327965
+    },
+    {
+      "segment": "Supermarket",
+      "year": "2026",
+      "revenue": 4794456.44,
+      "gp": 875200.54,
+      "discount": 0.07251566110397946
+    },
+    {
+      "segment": "Wholesale",
+      "year": "2025",
+      "revenue": 9310198.68,
+      "gp": 1865284.12,
+      "discount": 0.07497838565022422
+    },
+    {
+      "segment": "Wholesale",
+      "year": "2026",
+      "revenue": 11935382.27,
+      "gp": 2100784.07,
+      "discount": 0.08053069666182874
+    }
+  ],
+  "monthly": [
+    {
+      "month": "2026-01",
+      "revenue": 2223511.5
+    },
+    {
+      "month": "2026-02",
+      "revenue": 2944662.7399999998
+    },
+    {
+      "month": "2026-03",
+      "revenue": 2977111.33
+    },
+    {
+      "month": "2026-04",
+      "revenue": 3032550.08
+    },
+    {
+      "month": "2026-05",
+      "revenue": 3114449.76
+    },
+    {
+      "month": "2026-06",
+      "revenue": 3199932.36
+    },
+    {
+      "month": "2026-07",
+      "revenue": 2957877.82
+    },
+    {
+      "month": "2026-08",
+      "revenue": 3573885.5
+    }
+  ],
+  "budget": [
+    {
+      "month": "2026-01",
+      "budget": 2803172.98
+    },
+    {
+      "month": "2026-02",
+      "budget": 2696109.38
+    },
+    {
+      "month": "2026-03",
+      "budget": 3653923.17
+    },
+    {
+      "month": "2026-04",
+      "budget": 3214166.29
+    },
+    {
+      "month": "2026-05",
+      "budget": 3348967.28
+    },
+    {
+      "month": "2026-06",
+      "budget": 3403314.28
+    },
+    {
+      "month": "2026-07",
+      "budget": 3921078.2
+    },
+    {
+      "month": "2026-08",
+      "budget": 3086361.45
+    }
+  ],
+  "budget_region": [
+    {
+      "segment": "Central",
+      "budget": 3117135.84
+    },
+    {
+      "segment": "Coast",
+      "budget": 2255758.32
+    },
+    {
+      "segment": "Eastern",
+      "budget": 1875654.67
+    },
+    {
+      "segment": "Nairobi",
+      "budget": 8887747.25
+    },
+    {
+      "segment": "Nyanza",
+      "budget": 2739684.44
+    },
+    {
+      "segment": "Rift Valley",
+      "budget": 4839471.1
+    },
+    {
+      "segment": "Western",
+      "budget": 2411641.41
+    }
+  ],
+  "budget_category": [
+    {
+      "segment": "Beverages",
+      "budget": 2647129.89
+    },
+    {
+      "segment": "Household",
+      "budget": 6614879.17
+    },
+    {
+      "segment": "Personal Care",
+      "budget": 10002775.89
+    },
+    {
+      "segment": "Snacks",
+      "budget": 2091917.26
+    },
+    {
+      "segment": "Staples",
+      "budget": 4770390.82
+    }
+  ]
+}

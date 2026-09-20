@@ -1,0 +1,181 @@
+customer_id,customer_name,channel,region,city,segment
+C001,Busia E-Commerce Account 001,E-Commerce,Western,Busia,Standard
+C002,Kisumu Wholesale Account 002,Wholesale,Nyanza,Kisumu,Standard
+C003,Embakasi HoReCa Account 003,HoReCa,Nairobi,Embakasi,Standard
+C004,Bungoma Retail Account 004,Retail,Western,Bungoma,Standard
+C005,Nairobi CBD Retail Account 005,Retail,Nairobi,Nairobi CBD,Standard
+C006,Mombasa E-Commerce Account 006,E-Commerce,Coast,Mombasa,Standard
+C007,Mombasa Retail Account 007,Retail,Coast,Mombasa,Standard
+C008,Thika Retail Account 008,Retail,Central,Thika,Standard
+C009,Kisii E-Commerce Account 009,E-Commerce,Nyanza,Kisii,Standard
+C010,Homa Bay Supermarket Account 010,Supermarket,Nyanza,Homa Bay,Standard
+C011,Nyeri Wholesale Account 011,Wholesale,Central,Nyeri,Standard
+C012,Westlands Retail Account 012,Retail,Nairobi,Westlands,Standard
+C013,Westlands Wholesale Account 013,Wholesale,Nairobi,Westlands,Key Account
+C014,Nakuru Retail Account 014,Retail,Rift Valley,Nakuru,Standard
+C015,Kisii Retail Account 015,Retail,Nyanza,Kisii,Standard
+C016,Kasarani Retail Account 016,Retail,Nairobi,Kasarani,Standard
+C017,Kasarani Retail Account 017,Retail,Nairobi,Kasarani,Standard
+C018,Murang'a Retail Account 018,Retail,Central,Murang'a,Standard
+C019,Kasarani Retail Account 019,Retail,Nairobi,Kasarani,Standard
+C020,Kiambu Supermarket Account 020,Supermarket,Central,Kiambu,Standard
+C021,Kasarani Supermarket Account 021,Supermarket,Nairobi,Kasarani,Standard
+C022,Westlands Retail Account 022,Retail,Nairobi,Westlands,Standard
+C023,Murang'a Retail Account 023,Retail,Central,Murang'a,Standard
+C024,Kiambu Wholesale Account 024,Wholesale,Central,Kiambu,Standard
+C025,Mombasa Supermarket Account 025,Supermarket,Coast,Mombasa,Standard
+C026,Nairobi CBD E-Commerce Account 026,E-Commerce,Nairobi,Nairobi CBD,Standard
+C027,Kisumu Retail Account 027,Retail,Nyanza,Kisumu,Standard
+C028,Kilifi HoReCa Account 028,HoReCa,Coast,Kilifi,Standard
+C029,Nairobi CBD E-Commerce Account 029,E-Commerce,Nairobi,Nairobi CBD,Standard
+C030,Kasarani Retail Account 030,Retail,Nairobi,Kasarani,Standard
+C031,Kericho Retail Account 031,Retail,Rift Valley,Kericho,Standard
+C032,Nairobi CBD Wholesale Account 032,Wholesale,Nairobi,Nairobi CBD,Standard
+C033,Nakuru Retail Account 033,Retail,Rift Valley,Nakuru,Standard
+C034,Thika Retail Account 034,Retail,Central,Thika,Standard
+C035,Mombasa Retail Account 035,Retail,Coast,Mombasa,Standard
+C036,Westlands Retail Account 036,Retail,Nairobi,Westlands,Standard
+C037,Meru Wholesale Account 037,Wholesale,Eastern,Meru,Key Account
+C038,Embakasi E-Commerce Account 038,E-Commerce,Nairobi,Embakasi,Standard
+C039,Embakasi Retail Account 039,Retail,Nairobi,Embakasi,Standard
+C040,Nyeri Wholesale Account 040,Wholesale,Central,Nyeri,Standard
+C041,Kisumu Wholesale Account 041,Wholesale,Nyanza,Kisumu,Standard
+C042,Machakos Wholesale Account 042,Wholesale,Eastern,Machakos,Standard
+C043,Embakasi HoReCa Account 043,HoReCa,Nairobi,Embakasi,Standard
+C044,Kisii Retail Account 044,Retail,Nyanza,Kisii,Standard
+C045,Nyeri Wholesale Account 045,Wholesale,Central,Nyeri,Standard
+C046,Nakuru Supermarket Account 046,Supermarket,Rift Valley,Nakuru,Standard
+C047,Kisumu E-Commerce Account 047,E-Commerce,Nyanza,Kisumu,Standard
+C048,Nairobi CBD HoReCa Account 048,HoReCa,Nairobi,Nairobi CBD,Standard
+C049,Eldoret Retail Account 049,Retail,Rift Valley,Eldoret,Standard
+C050,Naivasha Retail Account 050,Retail,Rift Valley,Naivasha,Standard
+C051,Naivasha Wholesale Account 051,Wholesale,Rift Valley,Naivasha,Key Account
+C052,Kisumu Retail Account 052,Retail,Nyanza,Kisumu,Standard
+C053,Nyeri Retail Account 053,Retail,Central,Nyeri,Standard
+C054,Westlands Wholesale Account 054,Wholesale,Nairobi,Westlands,Key Account
+C055,Kericho Wholesale Account 055,Wholesale,Rift Valley,Kericho,Key Account
+C056,Meru Wholesale Account 056,Wholesale,Eastern,Meru,Standard
+C057,Mombasa Wholesale Account 057,Wholesale,Coast,Mombasa,Key Account
+C058,Kiambu HoReCa Account 058,HoReCa,Central,Kiambu,Standard
+C059,Westlands Supermarket Account 059,Supermarket,Nairobi,Westlands,Key Account
+C060,Kilifi E-Commerce Account 060,E-Commerce,Coast,Kilifi,Standard
+C061,Eldoret HoReCa Account 061,HoReCa,Rift Valley,Eldoret,Standard
+C062,Meru HoReCa Account 062,HoReCa,Eastern,Meru,Standard
+C063,Embakasi Supermarket Account 063,Supermarket,Nairobi,Embakasi,Key Account
+C064,Eldoret Retail Account 064,Retail,Rift Valley,Eldoret,Standard
+C065,Kakamega Retail Account 065,Retail,Western,Kakamega,Standard
+C066,Kasarani Retail Account 066,Retail,Nairobi,Kasarani,Standard
+C067,Bungoma Retail Account 067,Retail,Western,Bungoma,Standard
+C068,Kakamega Retail Account 068,Retail,Western,Kakamega,Standard
+C069,Kericho Retail Account 069,Retail,Rift Valley,Kericho,Standard
+C070,Kisii Retail Account 070,Retail,Nyanza,Kisii,Standard
+C071,Malindi E-Commerce Account 071,E-Commerce,Coast,Malindi,Standard
+C072,Mombasa Retail Account 072,Retail,Coast,Mombasa,Standard
+C073,Meru Wholesale Account 073,Wholesale,Eastern,Meru,Standard
+C074,Kasarani Retail Account 074,Retail,Nairobi,Kasarani,Standard
+C075,Bungoma Wholesale Account 075,Wholesale,Western,Bungoma,Standard
+C076,Thika Retail Account 076,Retail,Central,Thika,Standard
+C077,Nakuru Wholesale Account 077,Wholesale,Rift Valley,Nakuru,Standard
+C078,Eldoret Retail Account 078,Retail,Rift Valley,Eldoret,Standard
+C079,Embakasi Wholesale Account 079,Wholesale,Nairobi,Embakasi,Standard
+C080,Embakasi Wholesale Account 080,Wholesale,Nairobi,Embakasi,Standard
+C081,Embakasi Wholesale Account 081,Wholesale,Nairobi,Embakasi,Key Account
+C082,Kericho Supermarket Account 082,Supermarket,Rift Valley,Kericho,Standard
+C083,Naivasha Retail Account 083,Retail,Rift Valley,Naivasha,Standard
+C084,Bungoma Retail Account 084,Retail,Western,Bungoma,Standard
+C085,Nyeri Wholesale Account 085,Wholesale,Central,Nyeri,Key Account
+C086,Kasarani Supermarket Account 086,Supermarket,Nairobi,Kasarani,Standard
+C087,Nakuru Retail Account 087,Retail,Rift Valley,Nakuru,Standard
+C088,Naivasha Retail Account 088,Retail,Rift Valley,Naivasha,Standard
+C089,Meru Supermarket Account 089,Supermarket,Eastern,Meru,Key Account
+C090,Nairobi CBD Retail Account 090,Retail,Nairobi,Nairobi CBD,Standard
+C091,Machakos Wholesale Account 091,Wholesale,Eastern,Machakos,Standard
+C092,Malindi Supermarket Account 092,Supermarket,Coast,Malindi,Standard
+C093,Nairobi CBD HoReCa Account 093,HoReCa,Nairobi,Nairobi CBD,Standard
+C094,Kisumu Supermarket Account 094,Supermarket,Nyanza,Kisumu,Key Account
+C095,Busia Wholesale Account 095,Wholesale,Western,Busia,Key Account
+C096,Nairobi CBD Wholesale Account 096,Wholesale,Nairobi,Nairobi CBD,Standard
+C097,Naivasha E-Commerce Account 097,E-Commerce,Rift Valley,Naivasha,Standard
+C098,Homa Bay HoReCa Account 098,HoReCa,Nyanza,Homa Bay,Standard
+C099,Kisii HoReCa Account 099,HoReCa,Nyanza,Kisii,Standard
+C100,Mombasa Supermarket Account 100,Supermarket,Coast,Mombasa,Standard
+C101,Westlands HoReCa Account 101,HoReCa,Nairobi,Westlands,Standard
+C102,Kasarani Wholesale Account 102,Wholesale,Nairobi,Kasarani,Key Account
+C103,Embakasi Retail Account 103,Retail,Nairobi,Embakasi,Standard
+C104,Nairobi CBD Retail Account 104,Retail,Nairobi,Nairobi CBD,Standard
+C105,Westlands Supermarket Account 105,Supermarket,Nairobi,Westlands,Key Account
+C106,Murang'a Retail Account 106,Retail,Central,Murang'a,Standard
+C107,Kasarani Retail Account 107,Retail,Nairobi,Kasarani,Standard
+C108,Busia Retail Account 108,Retail,Western,Busia,Standard
+C109,Homa Bay Retail Account 109,Retail,Nyanza,Homa Bay,Standard
+C110,Embakasi Retail Account 110,Retail,Nairobi,Embakasi,Standard
+C111,Murang'a Wholesale Account 111,Wholesale,Central,Murang'a,Standard
+C112,Kakamega Wholesale Account 112,Wholesale,Western,Kakamega,Key Account
+C113,Kilifi Retail Account 113,Retail,Coast,Kilifi,Standard
+C114,Kericho Supermarket Account 114,Supermarket,Rift Valley,Kericho,Standard
+C115,Homa Bay Wholesale Account 115,Wholesale,Nyanza,Homa Bay,Standard
+C116,Malindi Retail Account 116,Retail,Coast,Malindi,Standard
+C117,Eldoret HoReCa Account 117,HoReCa,Rift Valley,Eldoret,Standard
+C118,Embakasi Retail Account 118,Retail,Nairobi,Embakasi,Standard
+C119,Embakasi Retail Account 119,Retail,Nairobi,Embakasi,Standard
+C120,Kisii Supermarket Account 120,Supermarket,Nyanza,Kisii,Standard
+C121,Nairobi CBD Wholesale Account 121,Wholesale,Nairobi,Nairobi CBD,Standard
+C122,Embakasi Retail Account 122,Retail,Nairobi,Embakasi,Standard
+C123,Nairobi CBD Supermarket Account 123,Supermarket,Nairobi,Nairobi CBD,Standard
+C124,Nairobi CBD Wholesale Account 124,Wholesale,Nairobi,Nairobi CBD,Key Account
+C125,Kiambu Wholesale Account 125,Wholesale,Central,Kiambu,Key Account
+C126,Naivasha Retail Account 126,Retail,Rift Valley,Naivasha,Standard
+C127,Nakuru Supermarket Account 127,Supermarket,Rift Valley,Nakuru,Key Account
+C128,Nairobi CBD E-Commerce Account 128,E-Commerce,Nairobi,Nairobi CBD,Standard
+C129,Kilifi Retail Account 129,Retail,Coast,Kilifi,Standard
+C130,Nakuru Wholesale Account 130,Wholesale,Rift Valley,Nakuru,Standard
+C131,Embakasi HoReCa Account 131,HoReCa,Nairobi,Embakasi,Standard
+C132,Nakuru Supermarket Account 132,Supermarket,Rift Valley,Nakuru,Standard
+C133,Kasarani Supermarket Account 133,Supermarket,Nairobi,Kasarani,Key Account
+C134,Nakuru HoReCa Account 134,HoReCa,Rift Valley,Nakuru,Standard
+C135,Kakamega Wholesale Account 135,Wholesale,Western,Kakamega,Key Account
+C136,Kisii Supermarket Account 136,Supermarket,Nyanza,Kisii,Key Account
+C137,Naivasha Wholesale Account 137,Wholesale,Rift Valley,Naivasha,Standard
+C138,Bungoma Wholesale Account 138,Wholesale,Western,Bungoma,Standard
+C139,Westlands HoReCa Account 139,HoReCa,Nairobi,Westlands,Standard
+C140,Kasarani Retail Account 140,Retail,Nairobi,Kasarani,Standard
+C141,Murang'a Retail Account 141,Retail,Central,Murang'a,Standard
+C142,Kilifi Retail Account 142,Retail,Coast,Kilifi,Standard
+C143,Embakasi Retail Account 143,Retail,Nairobi,Embakasi,Standard
+C144,Homa Bay HoReCa Account 144,HoReCa,Nyanza,Homa Bay,Standard
+C145,Malindi E-Commerce Account 145,E-Commerce,Coast,Malindi,Standard
+C146,Kasarani Wholesale Account 146,Wholesale,Nairobi,Kasarani,Standard
+C147,Kericho Wholesale Account 147,Wholesale,Rift Valley,Kericho,Key Account
+C148,Kasarani Supermarket Account 148,Supermarket,Nairobi,Kasarani,Key Account
+C149,Kilifi Wholesale Account 149,Wholesale,Coast,Kilifi,Key Account
+C150,Embu Retail Account 150,Retail,Eastern,Embu,Standard
+C151,Nyeri Retail Account 151,Retail,Central,Nyeri,Standard
+C152,Westlands Retail Account 152,Retail,Nairobi,Westlands,Standard
+C153,Eldoret Retail Account 153,Retail,Rift Valley,Eldoret,Standard
+C154,Naivasha Supermarket Account 154,Supermarket,Rift Valley,Naivasha,Standard
+C155,Kilifi E-Commerce Account 155,E-Commerce,Coast,Kilifi,Standard
+C156,Bungoma Retail Account 156,Retail,Western,Bungoma,Standard
+C157,Nairobi CBD Supermarket Account 157,Supermarket,Nairobi,Nairobi CBD,Key Account
+C158,Nairobi CBD Wholesale Account 158,Wholesale,Nairobi,Nairobi CBD,Standard
+C159,Kasarani Retail Account 159,Retail,Nairobi,Kasarani,Standard
+C160,Embakasi Wholesale Account 160,Wholesale,Nairobi,Embakasi,Key Account
+C161,Nairobi CBD Retail Account 161,Retail,Nairobi,Nairobi CBD,Standard
+C162,Kisumu HoReCa Account 162,HoReCa,Nyanza,Kisumu,Standard
+C163,Kiambu Wholesale Account 163,Wholesale,Central,Kiambu,Standard
+C164,Embakasi Retail Account 164,Retail,Nairobi,Embakasi,Standard
+C165,Kasarani Wholesale Account 165,Wholesale,Nairobi,Kasarani,Standard
+C166,Kasarani Wholesale Account 166,Wholesale,Nairobi,Kasarani,Key Account
+C167,Kisii Retail Account 167,Retail,Nyanza,Kisii,Standard
+C168,Nakuru E-Commerce Account 168,E-Commerce,Rift Valley,Nakuru,Standard
+C169,Westlands Retail Account 169,Retail,Nairobi,Westlands,Standard
+C170,Westlands Retail Account 170,Retail,Nairobi,Westlands,Standard
+C171,Nairobi CBD Retail Account 171,Retail,Nairobi,Nairobi CBD,Standard
+C172,Kericho Retail Account 172,Retail,Rift Valley,Kericho,Standard
+C173,Embakasi Supermarket Account 173,Supermarket,Nairobi,Embakasi,Standard
+C174,Naivasha Supermarket Account 174,Supermarket,Rift Valley,Naivasha,Standard
+C175,Eldoret Wholesale Account 175,Wholesale,Rift Valley,Eldoret,Standard
+C176,Naivasha HoReCa Account 176,HoReCa,Rift Valley,Naivasha,Standard
+C177,Westlands Supermarket Account 177,Supermarket,Nairobi,Westlands,Standard
+C178,Bungoma Wholesale Account 178,Wholesale,Western,Bungoma,Standard
+C179,Kasarani E-Commerce Account 179,E-Commerce,Nairobi,Kasarani,Standard
+C180,Kilifi Wholesale Account 180,Wholesale,Coast,Kilifi,Standard

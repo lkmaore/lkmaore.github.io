@@ -1,0 +1,39 @@
+# Lesley Maore — Business analysis & data storytelling
+
+**I make data make sense.**
+
+I’m building a career in business analysis with one ambition: give the data a voice everyone in the room can understand. If someone enters a meeting without the backstory, the analysis should still make sense.
+
+[Visit the portfolio](https://lkmaore.github.io/) · [Connect on LinkedIn](https://www.linkedin.com/in/lesleymaore/)
+
+## Featured case study
+
+### Growing sales. Shrinking margins.
+
+A fictional consumer-goods distributor needs to know whether rising sales are translating into stronger profits and whether it is meeting revenue targets.
+
+January–August 2026 revenue grew **21.9%**, but gross profit grew only **8.1%**. Revenue was **8.0% below budget**. The case study explains what this means, where management should focus, and what evidence is needed before acting.
+
+[Read the story](https://lkmaore.github.io/projects/commercial-performance/) · [Inspect the project](projects/commercial-performance/README.md)
+
+## How this portfolio is organised
+
+- `index.html`: home, work, about, and contact.
+- `projects/commercial-performance/`: standalone case study and supporting evidence.
+- `assets/`: responsive styling and small navigation enhancement.
+
+The site is static HTML and CSS with minimal optional JavaScript. Reading the case study does not require an account, JavaScript, or access to the private Power BI report.
+
+## Run locally
+
+From this directory:
+
+```sh
+python3 -m http.server 8000
+```
+
+Open `http://localhost:8000`. GitHub Pages serves the repository root from `main`; `.nojekyll` keeps the static files unchanged. There is no custom domain or paid hosting dependency.
+
+## Honest scope
+
+The featured project is an AI-assisted learning case study using synthetic data. It does not claim client work, stakeholder interviews, implemented recommendations, or realised business benefits. The case study explains the contribution and assistance used.

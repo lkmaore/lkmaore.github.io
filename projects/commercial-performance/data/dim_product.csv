@@ -1,0 +1,61 @@
+product_id,sku,product_name,category,brand,base_price,base_unit_cost
+P001,BEV-1001,Bever A SKU 01,Beverages,Bever A,165.91,132.31
+P002,BEV-1002,Bever B SKU 02,Beverages,Bever B,111.25,86.52
+P003,BEV-1003,Bever C SKU 03,Beverages,Bever C,180.47,132.16
+P004,BEV-1004,Bever D SKU 04,Beverages,Bever D,203.83,161.29
+P005,BEV-1005,Bever A SKU 05,Beverages,Bever A,133.29,106.23
+P006,BEV-1006,Bever B SKU 06,Beverages,Bever B,102.8,77.04
+P007,BEV-1007,Bever C SKU 07,Beverages,Bever C,73.98,57.71
+P008,BEV-1008,Bever D SKU 08,Beverages,Bever D,167.48,124.86
+P009,BEV-1009,Bever A SKU 09,Beverages,Bever A,103.07,76.38
+P010,BEV-1010,Bever B SKU 10,Beverages,Bever B,191.41,153.0
+P011,BEV-1011,Bever C SKU 11,Beverages,Bever C,190.87,139.37
+P012,BEV-1012,Bever D SKU 12,Beverages,Bever D,121.04,94.95
+P013,SNA-1013,Snack A SKU 01,Snacks,Snack A,174.44,126.7
+P014,SNA-1014,Snack B SKU 02,Snacks,Snack B,62.06,46.57
+P015,SNA-1015,Snack C SKU 03,Snacks,Snack C,160.17,112.06
+P016,SNA-1016,Snack D SKU 04,Snacks,Snack D,154.93,106.44
+P017,SNA-1017,Snack A SKU 05,Snacks,Snack A,119.71,79.33
+P018,SNA-1018,Snack B SKU 06,Snacks,Snack B,99.21,69.92
+P019,SNA-1019,Snack C SKU 07,Snacks,Snack C,157.82,110.18
+P020,SNA-1020,Snack D SKU 08,Snacks,Snack D,162.02,113.78
+P021,SNA-1021,Snack A SKU 09,Snacks,Snack A,141.59,106.96
+P022,SNA-1022,Snack B SKU 10,Snacks,Snack B,79.63,58.21
+P023,SNA-1023,Snack C SKU 11,Snacks,Snack C,60.37,44.48
+P024,SNA-1024,Snack D SKU 12,Snacks,Snack D,63.13,46.22
+P025,HOU-1025,House A SKU 01,Household,House A,456.91,358.0
+P026,HOU-1026,House B SKU 02,Household,House B,316.2,252.66
+P027,HOU-1027,House C SKU 03,Household,House C,261.5,189.94
+P028,HOU-1028,House D SKU 04,Household,House D,463.46,351.81
+P029,HOU-1029,House A SKU 05,Household,House A,210.7,157.41
+P030,HOU-1030,House B SKU 06,Household,House B,206.6,161.57
+P031,HOU-1031,House C SKU 07,Household,House C,644.45,487.2
+P032,HOU-1032,House D SKU 08,Household,House D,415.18,312.02
+P033,HOU-1033,House A SKU 09,Household,House A,566.71,420.73
+P034,HOU-1034,House B SKU 10,Household,House B,241.4,197.17
+P035,HOU-1035,House C SKU 11,Household,House C,287.19,227.81
+P036,HOU-1036,House D SKU 12,Household,House D,231.82,168.23
+P037,PER-1037,Perso A SKU 01,Personal Care,Perso A,763.46,505.59
+P038,PER-1038,Perso B SKU 02,Personal Care,Perso B,608.81,397.26
+P039,PER-1039,Perso C SKU 03,Personal Care,Perso C,790.18,509.62
+P040,PER-1040,Perso D SKU 04,Personal Care,Perso D,335.42,224.87
+P041,PER-1041,Perso A SKU 05,Personal Care,Perso A,542.96,362.95
+P042,PER-1042,Perso B SKU 06,Personal Care,Perso B,559.21,331.2
+P043,PER-1043,Perso C SKU 07,Personal Care,Perso C,429.58,289.4
+P044,PER-1044,Perso D SKU 08,Personal Care,Perso D,848.28,541.93
+P045,PER-1045,Perso A SKU 09,Personal Care,Perso A,213.64,148.34
+P046,PER-1046,Perso B SKU 10,Personal Care,Perso B,226.75,141.65
+P047,PER-1047,Perso C SKU 11,Personal Care,Perso C,704.46,457.43
+P048,PER-1048,Perso D SKU 12,Personal Care,Perso D,194.47,127.22
+P049,STA-1049,Stapl A SKU 01,Staples,Stapl A,398.76,334.03
+P050,STA-1050,Stapl B SKU 02,Staples,Stapl B,390.75,316.95
+P051,STA-1051,Stapl C SKU 03,Staples,Stapl C,83.67,68.81
+P052,STA-1052,Stapl D SKU 04,Staples,Stapl D,298.15,249.56
+P053,STA-1053,Stapl A SKU 05,Staples,Stapl A,165.38,137.05
+P054,STA-1054,Stapl B SKU 06,Staples,Stapl B,115.7,97.79
+P055,STA-1055,Stapl C SKU 07,Staples,Stapl C,225.19,180.98
+P056,STA-1056,Stapl D SKU 08,Staples,Stapl D,360.27,309.45
+P057,STA-1057,Stapl A SKU 09,Staples,Stapl A,240.19,207.93
+P058,STA-1058,Stapl B SKU 10,Staples,Stapl B,372.04,301.49
+P059,STA-1059,Stapl C SKU 11,Staples,Stapl C,175.5,145.47
+P060,STA-1060,Stapl D SKU 12,Staples,Stapl D,274.87,238.52
