@@ -22,11 +22,18 @@ A public-data supply-chain case study asks where delivery time accumulates and h
 
 [Read the story](https://lkmaore.github.io/projects/delivery-performance/) · [Inspect the project](projects/delivery-performance/README.md)
 
+### See the demand. Test the decision.
+
+A fictional meat-distribution experiment asks whether recording unmet demand improves replenishment decisions. Across 300 policy runs, better visibility helps under some assumptions but can increase waste under an unchanged buying rule. The story connects evidence to requirements for a proposed operational pilot.
+
+[Read the story](https://lkmaore.github.io/projects/invisible-demand/) · [Inspect the project](projects/invisible-demand/README.md)
+
 ## How this portfolio is organised
 
 - `index.html`: home, work, about, and contact.
 - `projects/commercial-performance/`: standalone case study and supporting evidence.
 - `projects/delivery-performance/`: public-data case study, Python/SQL analysis, notebook and proposed requirements.
+- `projects/invisible-demand/`: synthetic inventory experiment, reproducible notebook, assumptions and proposed requirements.
 - `assets/`: responsive styling and small navigation enhancement.
 
 The site is static HTML and CSS with minimal optional JavaScript. Reading the case study does not require an account, JavaScript, or access to the private Power BI report.
@@ -43,4 +50,4 @@ Open `http://localhost:8000`. GitHub Pages serves the repository root from `main
 
 ## Honest scope
 
-These are AI-assisted learning case studies. Project 1 uses synthetic data; Project 2 uses real anonymised historical Olist data. Neither claims client work, stakeholder interviews, implemented recommendations or realised business benefits. Each case explains its source, limitations, contribution and assistance used.
+These are AI-assisted learning case studies. Project 1 uses synthetic data; Project 2 uses real anonymised historical Olist data. The inventory case also uses fictional data and simulated outcomes; CV-reported achievements are separately attributed and are not validated by the simulation. These learning cases do not claim client work, stakeholder interviews, implemented recommendations or realised business benefits. Each case explains its source, limitations, contribution and assistance used.
