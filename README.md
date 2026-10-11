@@ -28,6 +28,12 @@ A fictional meat-distribution experiment asks whether recording unmet demand imp
 
 [Read the story](https://lkmaore.github.io/projects/invisible-demand/) · [Inspect the project](projects/invisible-demand/README.md)
 
+### Kenya, in context.
+
+A historical public-data study explains what Kenyan election, county-budget and parliamentary headlines can and cannot establish. A 47-county explorer keeps denominators, periods and source discrepancies visible.
+
+[Read the story](https://lkmaore.github.io/projects/kenya-in-context/) · [Inspect the project](projects/kenya-in-context/README.md)
+
 ## How this portfolio is organised
 
 - `index.html`: home, work, about, and contact.

@@ -1,0 +1,40 @@
+{
+  "retrieved": "2026-10-11",
+  "elections": {
+    "primary": "https://www.iebc.or.ke/uploads/resources/QLTlLJx0Vr.pdf",
+    "accessed_copy": "https://www.cartercenter.org/wp-content/uploads/2023/03/kenya-2022-elections-final-report.pdf",
+    "pages": [
+      50,
+      51,
+      52
+    ],
+    "csv_credit": "https://github.com/Paul-Oti/kenya_election_data",
+    "commit": "38ec25786e7f3c324e09809ba939047278e8ab23",
+    "method": "County valid/rejected totals from credited CSV checked against reproduced declaration; registered counts transcribed from declaration, not joined from pre-election register."
+  },
+  "budgets": {
+    "publisher": "https://cob.go.ke/download/county-governments-budget-implementation-review-report-for-the-financial-year-2023-24/",
+    "accessed_copy": "https://isiolomunicipality.go.ke/wp-content/uploads/2024/12/County-report-September-2024.pdf",
+    "table": "2.3",
+    "pdf_pages": [
+      28,
+      29
+    ]
+  },
+  "parliament": {
+    "url": "https://www.parliament.go.ke/sites/default/files/2026-04/PSC%20ANNUAL%20REPORT%202023-2024-final.pdf",
+    "tables": [
+      "5.2",
+      "5.10"
+    ],
+    "pdf_pages": [
+      81,
+      89
+    ]
+  },
+  "source_hashes": {
+    "psc-2023-24.pdf": "51def4984e3285f1e80b2fe46eb9405d905b08627549776f1485079207110351",
+    "carter-2022.pdf": "3d4edb10283840ddad37b30d28a06e8f8d8e704ca36ad768cc68bacedea7bc90",
+    "county-budget-2023-24.pdf": "a2d0d9ba5355493a515f02cd3e4a599df80d251b1fff91594a0d0550afa0d9a6"
+  }
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "metric": "Bills processed",
+    "national_assembly": 128,
+    "senate": 60,
+    "meaning": "Considered at various stages; not a count of laws enacted."
+  },
+  {
+    "metric": "Questions processed",
+    "national_assembly": 525,
+    "senate": 173,
+    "meaning": "Processing activity; not a count of answers delivered or issues resolved."
+  },
+  {
+    "metric": "Public petitions processed",
+    "national_assembly": 44,
+    "senate": 21,
+    "meaning": "Processing activity; not a count of satisfactory resolutions."
+  }
+]
